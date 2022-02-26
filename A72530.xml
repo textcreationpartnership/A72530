@@ -1,0 +1,1924 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plaine and profitable catechisme with certaine prayers adioyned, meete for parents and housholders to teach their children and seruants.</title>
+            <author>Leech, James, fl. 1605.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72530</idno>
+            <idno type="STC">STC 15363.3</idno>
+            <idno type="STC">ESTC S123497</idno>
+            <idno type="EEBO-CITATION">99899006</idno>
+            <idno type="PROQUEST">99899006</idno>
+            <idno type="VID">151003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1994:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plaine and profitable catechisme with certaine prayers adioyned, meete for parents and housholders to teach their children and seruants.</title>
+                  <author>Leech, James, fl. 1605.</author>
+                  <author>More, John, d. 1592.</author>
+               </titleStmt>
+               <extent>[8], 56, 59-82 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Legat, printer to the Vniversitie of Cambridge,</publisher>
+                  <pubPlace>[Cambridge] :</pubPlace>
+                  <date>1605.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Christian reader" signed: Iames Leech.</note>
+                  <note>On signature A3v: "I confesse some good part of this was published many years since, gathered out of another cathechisme by a godly and reuerent preacher M. Moore of Norwich, which I haue altered and enlarged in many places". (Hence, this work may be based in part upon Edward Dering's "A short catechisme for househoulders", first published as "A briefe &amp; necessary instruction.").</note>
+                  <note>The text is continuous in spite of pagination.</note>
+                  <note>Formerly STC 15365.</note>
+                  <note>Reproduction of original in the Harvard University Library, Cambridge, Massachusetts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151003:1" rendition="simple:additions"/>
+            <p>A PLAINE AND PROFITABLE CATECHISME, with certaine prayers adioyned, meete <hi>for parents and houſholders to</hi> teach their children <hi>and ſeruants.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Deuter. 6.6.</hi>
+               </bibl>
+               <p>Theſe vvords vvhich I command thee, ſhall be in thy heart, and thou ſhalt rehearſe them continually to thy children.</p>
+               <bibl>
+                  <hi>Ioſu. 24.15.</hi>
+               </bibl>
+               <p>Chooſe you this day vvhome you vvill ſerue, vvhether the gods vvhich your fathers ſerued, or the gods of the Amorites, in vvhoſe land ye dvvell: but I and my houſe vvill ſerue the Lord.</p>
+               <bibl>
+                  <hi>Ioh. 6.27.</hi>
+               </bibl>
+               <p>Labour not for the meate that periſheth, but for the meate that endureth to eternall life.</p>
+            </q>
+            <p>PRINTED BY IOHN LEGAT, Printer to the Vniverſitie of Cam<g ref="char:EOLhyphen"/>bridge. 1605.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151003:2"/>
+            <pb facs="tcp:151003:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Can not but earneſtly la<g ref="char:EOLhyphen"/>ment (good chriſtan Rea<g ref="char:EOLhyphen"/>der) as I hope thou doſt with me, theſe miſerable times wherein we liue behoulding the great number, already growne and daily encreaſing, of wicked atheists, ſuperſtitious papiſts, prophane wordlings, carnall goſpellers, vaine and idle profeſſors and great multitudes of ignorant people euen in the principles of religion in this land. Notwithſtanding the goſpel hath beene ſo long &amp; plentifully preached amongſt vs, ſo many godly books publiſhed, both of the interpretation of ſcriptures and alſo of other learned and holy treatiſes by ſundry worthy men, ſo many excellent and profita<g ref="char:EOLhyphen"/>ble catechiſmes, ſet forth and fitted for teaching the grounds of religion to all ſorts of people. So as we may iuſtly weepe ouer cities, townes, and villages as the Lord Ieſus did ouer Ieruſalem.<note place="margin">Luc. 19.42.</note> Oh that you had known euen in this your day thoſe things that be<g ref="char:EOLhyphen"/>long vnto your peace. But now are they hid from your eyes; for ah alas who ſeeth not,
+<pb facs="tcp:151003:3"/>
+almoſt in all places, the mightie ſinnes of the land, crying for vengance: That that may iuſtly be pronounced vnto vs which the prophet denounceth to Iſrael.<note place="margin">Hoſea. 4.1.</note> Heare the word of the lord O people of England. The lord hath a controuerſie with the inhabi<g ref="char:EOLhyphen"/>tants of the land, becauſe ther is no truth, no mercie, no knowledge of God in the land, by ſwearing and lying and ſtealing and killing and whoring they breake out, and blood toucheth blood. Wherefore it is great<g ref="char:EOLhyphen"/>ly to be feared that ſeeing wiſedome hath cryed vnto vs ſo long,<note place="margin">Pro. 1.20.25.26. &amp;c.</note> and vttered her words ſo lowd abroad in the ſtreets, in the aſſem<g ref="char:EOLhyphen"/>blies, in citties and townes, and all ſorts haue refuſed, none would regard her cal<g ref="char:EOLhyphen"/>ling, leaſt ſhee alſo laugh at our diſtruction, and mocke when our feare commeth like a ſodaine deſolation, and our deſtruction like a whirlewind and a tempeſt, to ſweepe vs a<g ref="char:EOLhyphen"/>way headlong into the gulfe of all miſeries and calamities. The Lord in mercie raiſe vs vp out of our deadly ſleepe of ſinnes and ſecuritie that we may awake to liue righte<g ref="char:EOLhyphen"/>ously and ſinne no longer. Many of vs haue in our mouths, vainly boaſting as the people of Iſrael,<note place="margin">Ier. 7.4.</note> the temple of the Lord, the temple
+<pb facs="tcp:151003:3"/>
+of the Lord, we haue the temple of the lord, ſo wee the goſpell of Chriſt, the goſpel of Chriſt, we haue the goſpel of Chriſt, but ah alas many thouſands of vs knowe nothing what the goſpell meaneth. A multitude of people throughout the land haue not yet learned the very beginnings of the doctrines of Chriſt, of repentance from dead works: of faith towards God, of baptiſme, of laying on of hands, of the reſurrection from the dead, and of eternall iudgement, nay not ſo much as what ſinne is, or how they becam ſinners, what the puniſhment of ſinne is, or how they may ſcape it. Many thouſands know nothing what ſinnes are forbidden, what duties are required in any of the com<g ref="char:EOLhyphen"/>mandements, they vnderſtand not any ar<g ref="char:EOLhyphen"/>ticle of the faith aright, any petition of the Lords praier, the meaning of the ſacra<g ref="char:EOLhyphen"/>ments, or any thing that belongeth to a chri<g ref="char:EOLhyphen"/>ſtian life. O that we would learne in time to repent and turne vnto the lord,<note place="margin">Ier. 4.4.</note> before his wrath breake forth vpon vs like fire, and burne that none can quench it, for the wic<g ref="char:EOLhyphen"/>kednes of our inuentions. Euen this were one good meanes if all parents and houſeholders would ſet apart ſome howre euery day to
+<pb facs="tcp:151003:4"/>
+pray with their children and ſeruants, &amp; vſe ſome for catechiſme to enforme them<g ref="char:EOLhyphen"/>ſelues, and their familie in the grounds, and principles of religion,<note place="margin">Deut. 6.6.7.8. &amp; 11.18.19. Epheſ. 6.4. Geneſ. 18.19. Ioſu. 24.15. Act. 10.21</note> as they are bound in duty by the commandements of the Lord and taught by the example of Godly fathers and howſeholders in the ſcriptures, namely <hi>Abraham, Ioſua</hi> and noble <hi>Cornelius.</hi> So ſhould themſelues, their children &amp; their ſeruants bee better prepared and fitted to vnderſtand the word of God &amp; the doctrines thereof deliuered vnto them by their godly paſtors and miniſters, which now they heare moſt vnprofitably, and after much and long teaching learne nothing at all. Amonge other catechiſmes I haue found by long ex<g ref="char:EOLhyphen"/>perience this one to bee of very fit and profi<g ref="char:EOLhyphen"/>table vſe, for the inſtruction of a family, beeing plaine and eaſie and not longer then may euery ſeauen daies be repeated through, being fitly deuided. For the queſtions concer<g ref="char:EOLhyphen"/>ning faſting and gouerment may bee omit<g ref="char:EOLhyphen"/>ted, except there bee ſpeciall occaſion, this may bee done and praier ioyned withall in litle more then halfe an hower at one time. I confeſſe ſome good part of this was publiſhed many yeares ſince, gathered out of another
+<pb facs="tcp:151003:4"/>
+cathechiſme by a godly and reuerent prea<g ref="char:EOLhyphen"/>cher M. Moore of Norwich, which I haue altered and enlarged in many places with ſuch queſtions and anſwers as I thought meete for the inſtruction of the ſimple and vnlearned, vnto which I haue added cer<g ref="char:EOLhyphen"/>taine praiers for the helpe of ſuch as are not yet able to conceiue a prayer of themſelues. I wiſh thee (good Reader) whoſoeuer wilt vſe it, to examine with the doctrines the places of ſcripture quoted, ſome of them at the leaſt though not all: otherwiſe thou ſhalt depriue thy ſelfe of a great benefit and comfort.</p>
+            <p>This poore mite amid my ordinarie la<g ref="char:EOLhyphen"/>bours at the requeſt of ſome freinds, I haue caſt into the Lords treaſurie, If thou pro<g ref="char:EOLhyphen"/>fitt by it remember me in thy praiers. And ſo I commend thee to god and to the word of his grace, who is able to build further, and to giue thee an inheritance among them which are ſanctified.</p>
+            <p>And the Lord giue thee vnderſtanding to growe in grace &amp; in the ſound knowledge of our Lord and Sauiour Ieſus Chriſt, to whome with the father and the holy Ghoſt be aſcribed all glory and praiſe power, ma<g ref="char:EOLhyphen"/>ieſtie
+<pb facs="tcp:151003:5"/>
+and dominion now henceforth and for euermore.</p>
+            <closer>
+               <signed>Thy poore louing brother in Chriſt, Iames Leech.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:151003:5"/>
+            <head>Queſtion.</head>
+            <p>VVHat ought euery man firſt &amp; cheifely to labour for all the daies of his life?</p>
+            <p>
+               <hi>An.</hi> The kingdome of God and his righteouſnes and to bee aſſured that his name is wrtten in heauen. Math. 6.33. Luc. 10.20. Ihon. 6.27. Reuela. 3.5. &amp; 20.15.</p>
+            <p>Q. Why ſo?</p>
+            <p>
+               <hi>An.</hi> For hereby we are made parta<g ref="char:EOLhyphen"/>kers of euerlaſting bleſſednes which is the fulnes of ioy and fruition of glorie, otherwiſe men are more miſerable then the vileſt creatures of the earth, for wee are elſe condemned wretches vnto euerlaſting death and damnation in hell fire.</p>
+            <p>Q. May not men bee perfectly bleſſed by enioying the things of this life?</p>
+            <p>
+               <hi>An.</hi> No,<note place="margin">Eccleſ. 1.4. Luk. 9.24. 2 Philip. 3.8.</note> for all things vnder the ſunne are but vanitie and vexation of ſpirit, and what ſhall it profit a man if he winne the whole world and looſe his ſoule. Math. 16.26.</p>
+            <p>
+               <pb n="2" facs="tcp:151003:6"/>Q. How may we then be perfectly bleſſed?</p>
+            <p>
+               <hi>An.</hi> In the attaining of euerlaſting life. Mat. 19.29. 2. Cor. 5.1, 2, 3, 4.</p>
+            <p>Q. What meane you by eternall life?</p>
+            <p>
+               <hi>An.</hi> That life which all they whoſe names are written in heauen ſhall poſ<g ref="char:EOLhyphen"/>ſeſſe with al fulnes of ioy &amp; vnſpeakea<g ref="char:EOLhyphen"/>ble glorie in the kingdome of God for uer and euer. Reuel. 21.3.4.24.27. &amp; 22.5. Mat. 25.34.</p>
+            <p>Q. How may we attaine to that e<g ref="char:EOLhyphen"/>ternall life?</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 17.3. Rom. 7.7.9. &amp;c.</note>
+               <hi>An.</hi> By the true knowledge of the onely true God; and whome he hath ſent Ieſus Chriſt and alſo by the know<g ref="char:EOLhyphen"/>ledge of our ſelues.</p>
+            <p>Q. Where is this knowledge to be learned?</p>
+            <p>
+               <hi>An.</hi> In the written word of God which wee call the holy canonicall ſcriptures. Ioh. 5.39. 2. Tim. 3.16.17. Rom. 15.4.</p>
+            <p>Q. What meane you by the canoni<g ref="char:EOLhyphen"/>call ſcriptures?</p>
+            <p>
+               <note place="margin">Luc. 24.27. Epheſ. 2.20.</note>
+               <hi>An.</hi> All thoſe things which are written in the bookes of the old and
+<pb n="3" facs="tcp:151003:6"/>
+new teſtament. 2. Pet. 1.19. &amp; 3.2.</p>
+            <p>Q. Why be they called canonicall?</p>
+            <p>
+               <hi>An.</hi> Firſt becauſe they differ from other writings called Apocrypha.</p>
+            <p>Secondly, becauſe they are the rule of Gods will conteining all things which we ought to beleeue and doe, for this word Canon ſignifieth a rule. Gal. 6.16.</p>
+            <p>Q. How muſt we vſe the ſcriptures that we may learne to know God and our ſelues?</p>
+            <p>
+               <hi>An.</hi> We muſt ſearch them. Iohn. 5.39. Act. 17.11.</p>
+            <p>Q. How muſt we ſearch them?</p>
+            <p>
+               <hi>An.</hi> By diligent and reuerent rea<g ref="char:EOLhyphen"/>ding of them<note n="(a)" place="margin">1. Tim. 4.13.</note> by diligent and re<g ref="char:EOLhyphen"/>uerent hearing of the word of God<note n="(b)" place="margin">Rom. 10.17.</note> preached<note n="(c)" place="margin">Pſal. 1.2.</note> By diligent and carefull meditation of that which we haue read and heard and by earneſt and hartie praier that God would open our vn<g ref="char:EOLhyphen"/>derſtanding. Epheſ. 1.17. Luc. 24.45. Iames. 1.5.</p>
+            <p>Q. What muſt we knowe in our ſelues?</p>
+            <p>
+               <hi>An.</hi> Who and what we are.</p>
+            <p>
+               <pb n="4" facs="tcp:151003:7"/>Q. Who and what are we?</p>
+            <p>
+               <hi>An.</hi> The children of Adam &amp; Eue. Gen. 5.3. Rom. 5.14.18.</p>
+            <p>Q. Who was that Adam and Eue?</p>
+            <p>
+               <hi>An.</hi> The firſt man and woman that euer were vpon the earth; the moſt ex<g ref="char:EOLhyphen"/>cellent and principall creatures of god vpon the earth, the father and mother of all mankind. Gen. 1.27. Gen. 2.7. Gen. 2.21.23.</p>
+            <p>Q. Wherein ſtood this excellencie of man and woman?</p>
+            <p>
+               <hi>An.</hi> In that they conſiſting of ſenſi<g ref="char:EOLhyphen"/>ble bodies although created of the duſt of the earth<note n="(a)" place="margin">Gen. 2.7.</note> they had alſo vnder<g ref="char:EOLhyphen"/>ſtanding ſoules, and were made accor<g ref="char:EOLhyphen"/>ding to the image<note n="b" place="margin">Gen. 1.27. Colloſ. 3.10. Epheſ. 4.24.</note> of God in perfect holines and righteouſnes to ſerue God according to his will; and were alſo placed at the firſt in paradice<note n="c" place="margin">Gen. 2.8.15.</note> &amp; had dominion ouer all the creatures of the earth, the fiſhes of the ſea, and the foules of the ayre. Gen. 1.28.</p>
+            <p>Q. Did man and woman continue in this happie place and excellent e<g ref="char:EOLhyphen"/>ſtate?</p>
+            <p>
+               <hi>An.</hi> No, they were quickly throwne
+<pb n="5" facs="tcp:151003:7"/>
+out from thence for their ſinne and tranſgreſſion through the ſubtiltie and malice of Sathan,<note place="margin">Gen. 3.1, 2, 3, 4, 5, 6.23.24. 2. Cor. 11.3.</note> rebelling againſt god their creator, and ſo curſed and con<g ref="char:EOLhyphen"/>demned to eternall death and damna<g ref="char:EOLhyphen"/>tion both of ſoule and bodie, in which eſtate they had remained and all their poſteritie for euer, if God of his free mercie had not prouided a wonderfull way of deliuerance. Gen. 3.15.</p>
+            <p>Q. Art thou then ſuch a one as A<g ref="char:EOLhyphen"/>dam and Eue were?</p>
+            <p>
+               <hi>An.</hi> Yea ſurely, &amp; not only I,<note place="margin">Gen. 5.5. Rom. 3.10.11.12.23. Rom. 5.12.14.18.</note> but alſo all the children of Adam &amp; Eue (only Chriſt Ieſus excepted) (that is to ſay) all men weomen &amp; children which e<g ref="char:EOLhyphen"/>uer haue bin, are, or ſhall bee borne in<g ref="char:EOLhyphen"/>to the world ſince Adam the firſt man vnto the laſt, are euen ſuch as Adam and Eue were after they were caſt out of paradice, (that is to ſay) wretched ſinners, corrupted in nature, curſed and condemned creatures before the iudg<g ref="char:EOLhyphen"/>ment ſeate of God, except we can find that remedie which God of his free mercie hath prouided for vs.</p>
+            <p>Q. What is that remedie or what
+<pb n="6" facs="tcp:151003:8"/>
+haue wee to anſwer before the iudg<g ref="char:EOLhyphen"/>ment ſeat of God that we ſhould not bee condemned for euer?</p>
+            <p>
+               <note place="margin">Ioh. 3.17.36.</note>
+               <hi>An.</hi> This is our only remedie and it is the full ſatisfaction of gods wrath &amp; our deliuerance from co<g ref="char:cmbAbbrStroke">̄</g>demnation to beleeue that Ieſus Chriſt the ſonne of God hath vouchſafed to become man for vs, and hath ſo pacified gods wrath due vnto vs,<note place="margin">2. Cor. 5.21. Rom 4.25. Rom. 5.8. 1. Cor. 15.21.22.</note> by his death and blood<g ref="char:EOLhyphen"/>ſhedding vpon the Croſſe and hath purchaſed for vs the fauour of God &amp; euerlaſting life.</p>
+            <p>Q. What had become of thee if Chriſt had not thus died for thee?</p>
+            <p>
+               <hi>An.</hi> I had bin condemned to eter<g ref="char:EOLhyphen"/>nall death and damnation both of ſoule and bodie in hell fire with the diuell and his angels for euer. Iohn 3.36.</p>
+            <p>Q. What ſhall become of thee now ſeeing Chriſt hath died for thee?</p>
+            <p>
+               <hi>An.</hi> If I beleeue faithfully in Ieſus Chriſt that he hath paid the full price of my redemption and is become my ſauiour then am I iuſtified both in ſoule and bodie,<note place="margin">Ioh. 5.24. Ion. 17.2.24. Rom. 8.29.30. 2. Cor. 3.18.</note> and ſhall after this life en<g ref="char:EOLhyphen"/>ded bee glorified both in ſoule and
+<pb n="7" facs="tcp:151003:8"/>
+bodie with euerlaſting life in the king<g ref="char:EOLhyphen"/>dome of heauen to liue in euerlaſting ioy and bleſſednes with Chriſt and his angels for euer.</p>
+            <p>Q. What doth God require at thy hands for theſe his great mercies tow<g ref="char:EOLhyphen"/>ard thee?</p>
+            <p>
+               <hi>An.</hi> That I ſhould ſeeke to glorifie him.</p>
+            <p>Q. Wherein?</p>
+            <p>
+               <hi>An.</hi> In ſoule and bodie. 1. Cor. 6.20. Rom. 1.2. Titus 2.11.</p>
+            <p>Q. How?</p>
+            <p>
+               <hi>An.</hi> In ſeeking how to ſerue him in true holines and righteouſnes all the daies of my life.<note place="margin">1. Pet. 1.13.14.15. Luc. 1.74.75.</note>
+            </p>
+            <p>Q. What meane you by holines?</p>
+            <p>
+               <hi>An.</hi> It conteineth all thoſe duties which appertaine to the true worſhip of God.</p>
+            <p>
+               <hi>Q.</hi> Where bee they taught you?</p>
+            <p>
+               <hi>An.</hi> In the firſt table of the com<g ref="char:EOLhyphen"/>mandemens of almightie God.</p>
+            <p>
+               <hi>Q.</hi> What meane you by righteouſ<g ref="char:EOLhyphen"/>nes?</p>
+            <p>
+               <hi>An.</hi> It containeth all thoſe duties which the Lord would haue vs to per<g ref="char:EOLhyphen"/>forme
+<pb n="8" facs="tcp:151003:9"/>
+toward our neighbours.</p>
+            <p>
+               <hi>Q.</hi> Where be they taught you?</p>
+            <p>
+               <hi>An.</hi> In the ſecond table of the com<g ref="char:EOLhyphen"/>mandements of Almightie God.</p>
+            <p>
+               <hi>Q.</hi> How many commandements be there?</p>
+            <p>
+               <hi>An.</hi> Tenne. Deut. 4.15.</p>
+            <p>
+               <hi>Q.</hi> How many bee of the firſt ta<g ref="char:EOLhyphen"/>ble?</p>
+            <p>
+               <hi>An.</hi> Fowre.</p>
+            <p>
+               <hi>Q.</hi> How many be of the ſecond ta<g ref="char:EOLhyphen"/>ble?</p>
+            <p>
+               <hi>An.</hi> Six.</p>
+            <p>Reherſe the commandements.</p>
+            <p>God ſpake theſe words and ſaid I am the Lord thy God, which hath brought thee out of the Land of Egypt, out of the houſe of bondage.</p>
+            <p n="1">i. Thou ſhalt haue none other Gods but me.</p>
+            <p n="2">ii. Thou ſhalt not make to thy ſelfe any grauen Image, nor the likenes of any thing, that is in heauen aboue, or in the earth beneath, or in the water vnder the earth: Thou ſhalt not bowe downe to them, nor worſhip them. For I the Lord thy God, am a iealous God,
+<pb n="9" facs="tcp:151003:9"/>
+&amp; viſite the ſinnes of the Fathers vpon the children, vnto the third and fourth generation of them that hate me, and ſhew mercie vnto thouſands in them that loue me, and keepe my comman<g ref="char:EOLhyphen"/>dements.</p>
+            <p n="3">iii. Thou ſhalt not take the name of the Lord thy God in vaine: for the Lord will not hold him guiltles that taketh his Name in vaine.</p>
+            <p n="4">iiii. Remember that thou keepe ho<g ref="char:EOLhyphen"/>ly the ſabaoth day: Sixe daies thou ſhalt labour, and doe all that thou haſt to doe: But the ſeauenth day is the ſa<g ref="char:EOLhyphen"/>baoth of the Lord thy God; in it thou ſhalt doe no manner of worke, thou and thy ſonne and thy daughter, thy manſeruant, and thy maidſeruant, thy cattell, and the ſtranger that is within thy gates; For in ſix daies the Lord made heauen and earth, the ſea, and all that in them is, &amp; reſted the ſeauenth day; Wherefore the Lord bleſſed the ſeauenth day and hallowed it.</p>
+            <p n="5">v. Honour thy father and thy mo<g ref="char:EOLhyphen"/>ther that thy daies may be long in the land which the Lord thy God giueth thee.</p>
+            <p n="6">
+               <pb n="10" facs="tcp:151003:10"/>vi. Thou ſhalt doe no murther.</p>
+            <p n="7">vii. Thou ſhalt not commit adulte<g ref="char:EOLhyphen"/>rie.</p>
+            <p n="8">viii. Thou ſhalt not ſteale.</p>
+            <p n="9">ix. Thou ſhalt not beare falſe witnes againſt thy neighbour.</p>
+            <p n="10">x. Thou ſhalt not couet thy neigh<g ref="char:EOLhyphen"/>bours houſe, thou ſhalt not couet thy neighbours wife, nor his ſeruant, nor his maid, nor his oxe, nor his aſſe, nor any thing that is his.</p>
+            <p>Q. Which is the firſt commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>An.</hi> Thou ſhalt haue none other Gods but me.</p>
+            <p>Q. What is the meaning of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> The lord God ſtraightlie char<g ref="char:EOLhyphen"/>geth vs in this firſt co<g ref="char:cmbAbbrStroke">̄</g>mandement, that we worſhip god alone which worſhip ſtandeth in foure points; firſt that w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note n="a" place="margin">Phil. 3.7.8. Mat. 10.37.</note> loue god aboue all. Secondly tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we<note n="b" place="margin">Mal. 1.6. Mat. 10.28.</note> feare god aboue all. Thirdly that we make our praiers to<note n="c" place="margin">Rom. 10.13.</note> non<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but to god. Fourthly that we<note n="d" place="margin">Pſal. 135.6. &amp; 115.3. &amp;. 145.15. &amp; 95.4.5.</note> ac<g ref="char:EOLunhyphen"/>knowledge god alone to be the guide and gouernour of all things<note n="e" place="margin">Iam. 1.17.</note> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:151003:10"/>
+whome we receiue all the benefits that we haue, and therefore that<note n="f" place="margin">Ier. 17.5. &amp; 48.7. Eſay 31.</note> we truſt and ſtay vpon him alone and giue him thanks for all his mercies.</p>
+            <p>Q. Which is the ſecond comman<g ref="char:EOLhyphen"/>dement?</p>
+            <p>
+               <hi>Anſ.</hi> Thou ſhalt not make to thy ſelfe any grauen image. &amp;c.</p>
+            <p>Q. What is the meaninge of this commmandement?</p>
+            <p>
+               <hi>A.</hi> In this ſecond co<g ref="char:cmbAbbrStroke">̄</g>mandeme<g ref="char:cmbAbbrStroke">̄</g>t be co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>teyned three things firſt that we ſhould not<note n="(a)" place="margin">Deu. 4.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 16.17.8. &amp;c. Act. 17.29. Io<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1.18. 1. Tim. 6.16.</note> thinke god to be like either man or weoman, or any other thinge: and therfore that we make noe image of god in anie caſe. Secondly that we make noe Image of any other thinge either to<note n="b" place="margin">Lev. 26.1. Exo. 34 14.31.34. Deut. 4.23 1. Ioh. 4.12. Eſay. 40.18.29 &amp; 46.5 Pſal. 97.7. &amp; 109.36 Eſay. 44.17. Dan. 31.18.</note> worſhip the image it ſelfe, either god; Sainct or angel by the image neyther yet to this end to be the bet<g ref="char:EOLhyphen"/>ter<note n="(c)" place="margin">Aba. 2.18 Ier. 10.8.14.15</note> put in mind of god by the i<g ref="char:EOLhyphen"/>mage. Thirdly that wee worſhip not god in any other<note n="d" place="margin">Ioh. 4.23.24 Mat. 15.9. Eſay 19.13.14.</note> outward worſhip according to our owne fanteſes but<note n="e" place="margin">Deu. 12.32. &amp; 5.32.33. Pro. 30.6. Ioſua. 1.7. Apoc. 22.18.19.</note> as the lord hath commanded vs in his word.</p>
+            <p>Q. Which is the third commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <pb n="12" facs="tcp:151003:11"/>
+               <hi>A.</hi> Thou ſhalt not take the name &amp;c.</p>
+            <p>Q. What is the meaninge of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> The lord god ſtraightly char<g ref="char:EOLhyphen"/>geth vs in this third commandement theſe three things; Firſt that we vſe with<note n="a" place="margin">Deut 28.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.59. Pſal. 8.1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re. 10.6.</note> moſt high reuerence the name of god whenſoeuer we either ſpeake or thinke vpon him. Secondly that we neuer blaſpheme the name of god by<note n="b" place="margin">Deu. 18.10.11. Eſay. 8 19. &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mal. 3.5. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 5.19.20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. 19.16.</note> coniuring, witchcraft, ſorcery, char<g ref="char:EOLhyphen"/>ming, or any ſuch like, neyther by cur<g ref="char:EOLhyphen"/>ſing or banninge. Thirdly that we ne<g ref="char:EOLhyphen"/>ver<note n="c" place="margin">Mat. 5.34.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.36.37. Iam. 12.</note> ſweare by the name god in our common talke although the matter be neuer ſo true, but only where the<note n="d" place="margin">Ioſ. 2.12.</note> glory of god is ſought, or the ſaluation of our brethren<note n="e" place="margin">Cor. 15.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; 11.31. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 1.20.</note> or alſo before a magiſtrate in witneſſinge the truth, when we are thereunto lawfully cal<g ref="char:EOLhyphen"/>led, in which cauſes we muſt<note n="f" place="margin">Exo. 22.10.11.</note> onely ſweare by the name of God, but as for<note n="g" place="margin">Deut. 6.13. &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.20.</note> ſainct, angell<note n="h" place="margin">2. Cor. 1.13. Iere. 5 7 &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16.17. Amos 14. Soph. 1.5.</note> Roode, booke, Croſſe, Maſſe, or any other thing we ought in no caſe by them to ſweare.</p>
+            <p>Q. Which is the fourth co<g ref="char:cmbAbbrStroke">̄</g>mandeme<g ref="char:cmbAbbrStroke">̄</g>t?</p>
+            <p>
+               <hi>Anſ.</hi> Remember that thou keepe
+<pb n="13" facs="tcp:151003:11"/>
+holy the ſaboth day &amp;c.</p>
+            <p>Q. What is the meaning of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> We are here commanded to hallow the ſaboath day (that is to ſay to<note n="(a)" place="margin">Deut. 5.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Exo. 6.26.</note> reſt from our labours in our cal<g ref="char:EOLhyphen"/>lings; and in one place to aſſemble our ſelues together; and with faith feare and reuerence to heare, marke and<note n="(b)" place="margin">Mat. 13.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> lay vp in our harts the word of god<note n="c" place="margin">Act. 20.7. &amp; 15.22.</note> preached vnto vs, to<note n="d" place="margin">Mat. 18.19. Cor. 14.16.17.</note> pray altoge<g ref="char:EOLhyphen"/>ther that which we<note n="(e)" place="margin">1. Cor. 14 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 33.34. Act. 2.42. &amp; 20.17.</note> vnderſtand with one conſent and at the times ap<g ref="char:EOLhyphen"/>pointed to (<hi rend="sup">f</hi>) vſe the ſacramenets in faith and repentance and all our life long to<note n="g" place="margin">Num. 29.7. Heb. 4.9.10.</note> reſt from ſinne &amp; wicked<g ref="char:EOLhyphen"/>nes that the lord by his holy ſpirite may worke in vs his good worke and ſo begin in this life his everlaſting reſt.</p>
+            <p>Q. Which is the fift commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſ.</hi> Honour thy father and mo<g ref="char:EOLhyphen"/>ther: &amp;c.</p>
+            <p>Q. What is the meaning of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> The meaning of this fift co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mandement
+<pb n="14" facs="tcp:151003:12"/>
+is, that we ſhould honour (that is to ſay) loue, feare, reuerence, o<g ref="char:EOLhyphen"/>bey, and releiue our<note n="a" place="margin">Levit 19.3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol. 3.20.22.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.24.</note> parents or any other that are vnto vs in their ſtead, as our<note n="b" place="margin">Exod. 22.18. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 13.12. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it. 3.1.</note> Princes Rulers and Magiſtrates,<note n="c" place="margin">Hebr. 13.17.1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſ. 5.12.13.</note> our paſtors and teachers, our<note n="d" place="margin">Eph. 6.5.6.7. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it. 29.10.</note> maſters, and all other which are aboue vs in any calling placed by god<note n="e" place="margin">Leu. 19 32.</note> as the aged and grayheadded, and that all ſuperiors ſhow themſelues indeed parents in<note n="f" place="margin">Col. 3.21. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol 4.1. Eph. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> guiding and defending their inferiors.</p>
+            <p>Q. Which is the ſixt commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſ.</hi> Thou ſhalt doe no murther.</p>
+            <p>Q. What is the meaning of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> We are forbidden in this ſixt co<g ref="char:cmbAbbrStroke">̄</g>mandement. Firſt all<note n="(a)" place="margin">Gen. 9.6. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eu. 5.17.</note> killing<note n="(b)" place="margin">Mat. 5.38.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> fightinge and<note n="(c)" place="margin">Col. 3.12.13.</note> quarelling, all<note n="(d)" place="margin">Lou. 19 14.17.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> re<g ref="char:EOLhyphen"/>proches mocks and taunts. Secondly he forbiddeth all killing in hart, that is all anger<note n="(e)" place="margin">Mat. 5.21.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. Ioh. 3.15.</note> and malice<note n="(f)" place="margin">Pro. 20.21.</note> all de<g ref="char:EOLhyphen"/>ſire of reuenge. Thirdly on the other ſide he commandeth vs to preſerue life by exerciſing<note n="(g)" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mat. 25.33. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſay. 58.7. Eze. 8.7.</note> the works of mercy and compaſſion towards our brethren
+<pb n="15" facs="tcp:151003:12"/>
+yea euen towards our enemies. Fourthly to<note n="h" place="margin">Mat. 5.44. Leu. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h 18. luk. 27. Rom. 12.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18.19.20.21.</note> loue one another inwardly in hart as our ſelues, yea euen our enemies and them that hate vs.</p>
+            <p>Q. Which is the ſeauenth comma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dement?</p>
+            <p>
+               <hi>Anſ.</hi> Thou ſhalt not commit Adul<g ref="char:EOLhyphen"/>terie.</p>
+            <p>Q. What is the meaning of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> We are forbiden in this ſea<g ref="char:EOLhyphen"/>venth commandement. Firſt<note n="(a)" place="margin">Leuit. 18.20 Deut. 23.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> all A<g ref="char:EOLhyphen"/>dultery, fornication, and all other<note n="b" place="margin">Leu. 18.22.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 24.25.</note> vncleaneſſe in our bodyes. Secondlie all<note n="(c)" place="margin">Mat. 5.28</note> vnpure thoughts and luſtes of the hart. Thirdly all other things which might entiſe vs to ſuch vncleanes, as all vnchaft<note n="d" place="margin">Eſay. 3.16.17. Rom. 13.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> behauiour<note n="e" place="margin">Eph. 4.15. &amp; 5.3.4.</note> filthy talke, books and ſongs<note n="(f)" place="margin">Deu. 22.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eſay 3.18.19 20.21. &amp;c.</note> wanton ap<g ref="char:EOLhyphen"/>parrel, lewd and idle paſtimes<note n="(g)" place="margin">Eph. 5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> glut<g ref="char:EOLhyphen"/>tony, drunkennes<note n="h" place="margin">Deu. 22.20 21.</note> howſes of open whoredome, and what ſoeuer elſe may allure vs to any manner of vncleanes. Fourthly on the other ſide he co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>deth vs to keepe our bodies &amp; ſoules<note n="i" place="margin">1. Cor. 6.15.19.20. 1. Theſ. 43 45.</note> chaſt &amp; pure as temples of the holy ghoſt, and if the<note n="(k)" place="margin">1. Cor. 7.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9. Heb. 13.4.</note> gift of chaſtitie be
+<pb n="16" facs="tcp:151003:13"/>
+not giuen vs to vſe the lawfull remedy appointed by god, which is mariage.</p>
+            <p>Q. Which is the eight commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſ.</hi> Thou ſhalt not ſteale.</p>
+            <p>Q. What is the meaninge of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> In this eight commandement the lord god forbiddeth all<note n="(a)" place="margin">Leu. 19.11. Deut. 5.19.</note> ſtealing and robbing in outward deeds. Se<g ref="char:EOLhyphen"/>condly he forbiddeth all<note n="(b)" place="margin">Eph. 5.3. Col. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. Pſal 61.10. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15 3 5.</note> ſtealing in harte, that is all deſire of any mans goods wrongfully. Thirdly<note n="(c)" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach. 8.17 Mic. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1. 2. Act. 20.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> all de<g ref="char:EOLhyphen"/>ceite and wrongfull dealinge. Fourthly on the other ſide he chargeth vs to be<note n="(d)" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Theſ. 4.6. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xo. 21.21.22. 3. Deut 10.17.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.19. &amp; 24.14. Pro. 17.27.1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im. 6.6.</note> content with that portion of goods which the lord giueth vs &amp; to<note n="(e)" place="margin">Gen. 3.19. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 4.28. Theſ. 3.10.</note> apply our ſelues in our vocation and calling to get our owne liuing, and to liue of that which is our owne and alſo to be helpfull vnto others.</p>
+            <p>Q. Which is the ninth commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſ.</hi> Thou ſhalt not beare falſe wit<g ref="char:EOLhyphen"/>nes againſt thy neighbour.</p>
+            <p>Q. What is the meaninge of this commandement?</p>
+            <p>
+               <pb n="17" facs="tcp:151003:13"/>
+               <hi>Anſ.</hi> The lord god co<g ref="char:cmbAbbrStroke">̄</g>mandeth vs in this ninth commandement. Firſt that we neuer<note n="a" place="margin">Pro. 16.5.9. &amp; 21.28.</note> ſpeake falſly in wit<g ref="char:EOLhyphen"/>nes bearing. Secondly that not only in witnes bearing but alſo in noe other matter we ſhould neuer<note n="b" place="margin">Eph. 4.25. Pſal. 15.2.</note> lie, flatter nor diſſemble. Thirdly that we ſhould neuer tel falſe<note n="c" place="margin">Pſal. 15.3. Pro. 25.18.</note> tales behind our neighbours backs or heare them of o<g ref="char:EOLhyphen"/>thers; that we ſhould neuer<note n="d" place="margin">Mat. 17.2. Rom. 14.4. Pſal. 15.3. Iam. 4.12.</note> beleeue any euil ſpoken behind their backs vn<g ref="char:EOLhyphen"/>till we fully know the certaintie therof. Fourthly in priuate offenſes to ſpeake nothing although it bee true to the<note n="e" place="margin">1. Pet. 4.8. 1. Cor. 13.7. Pro. 11.12.</note> hurting of our brothers good name, if that by<note n="f" place="margin">Mat. 18.15.16.17.18.</note> priuate admoniti<g ref="char:EOLhyphen"/>ons he may be reformed.</p>
+            <p>Q. Which is the tenth commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>Anſ.</hi> Thou ſhalt not couet thy neighbours houſe, thou ſhalt not co<g ref="char:EOLhyphen"/>uet &amp;c.</p>
+            <p>Q. What is the meaning of this commandement?</p>
+            <p>
+               <hi>Anſ.</hi> Here the lord in plaine words doth forbid all inward deſire whatſoe<g ref="char:EOLhyphen"/>ver is<note n="a" place="margin">Rom. 7.7.</note> vnlawfull to be donne, al<g ref="char:EOLhyphen"/>though
+<pb n="18" facs="tcp:151003:14"/>
+we neuer<note n="b" place="margin">Gen. 6.5. &amp; 8.21. Pro. 20.9.</note> conſent vnto it, as the<note n="c" place="margin">Rom. 7.23.</note> rebellion of the fleſh, all cor<g ref="char:EOLhyphen"/>ruption of the<note n="d" place="margin">Eph 4.22. Col. 3.9.</note> old man, all<note n="e" place="margin">Rom. 6.6.</note> blot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of originall ſinne: ſoe that by this com<g ref="char:EOLunhyphen"/>mandement moſt clearely we may ſee the image of that man which pleaſeth god, euen ſuch a one in whom nothing is vnpure neither in will nor nature</p>
+            <p>
+               <note place="margin">3. parte</note>Q. Canſt thou fulfil the comman<g ref="char:EOLunhyphen"/>dements of Almighty god?</p>
+            <p>
+               <note place="margin">Luk. 17.10. Rom. 3.10.</note>
+               <hi>Anſ.</hi> No, although I doe all that can yet I breake them dayly both i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thought word and deede.</p>
+            <p>Q. Why canſt thou not fulfil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them?</p>
+            <p>
+               <hi>Anſ.</hi> Becauſe not fleſh can attaine vnto the perfect fulfilling thereof. Pro. 9.1. Kings. 8.46.7. eccleſ. 7.22.</p>
+            <p>
+               <note place="margin">1. Ioh. 1.8.</note>Q. What is the cauſe?</p>
+            <p>
+               <hi>Anſ.</hi> Becauſe all men are ſinners Rom. 3.23.</p>
+            <p>Q. What is ſinne?</p>
+            <p>
+               <note place="margin">Rom. 7.7.8.</note>
+               <hi>Anſ.</hi> It is a falling from and a fay<g ref="char:EOLunhyphen"/>ling of that holines and righteouſne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is required to be in every on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of vs by the law of god without a corruption. Eccleſiaſt. 7.31.</p>
+            <p>
+               <pb n="19" facs="tcp:151003:14"/>Q. Tell me more ſhortly what is ſinne?</p>
+            <p>
+               <hi>Anſ.</hi> Sinne is whatſoeuer diſagre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th with the righteouſnes of the lawe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f god. 1. Ioh. 3.4.</p>
+            <p>Q. How many wayes are we ſin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers?</p>
+            <p>
+               <hi>An.</hi> Two wayes,<note place="margin">Rom. 5.12. Eph. 2.1.2.3.</note> firſt by the ſinne of our forefather Adam: Secondlye by our ſelues.</p>
+            <p>Q. How many wayes are we ſinners <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y our ſelues?</p>
+            <p>
+               <hi>An.</hi> Two wayes. Originally and actually.</p>
+            <p>Q. What call you Original ſinne?</p>
+            <p>
+               <hi>An.</hi> Originall ſinne is that corrup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of nature which we haue receiued from the diſobedience of our forefa<g ref="char:EOLhyphen"/>ther Adam,<note place="margin">Pſal. 51.5. Rom. 7.5. &amp; Ro<g ref="char:cmbAbbrStroke">̄</g>. 3.10.11. &amp;c. 2. Cor. 5. Epheſ. 4.23 Ieam. 1 14.15. Epheſ. 2.1.2.3</note> ſpringing vp with vs in our very conception, diſperſed into all the powers and parts of ſoule and body, which maketh vs vnapt and vnable to all goodnes, prone &amp; ready to all ſinne and wickednes, from which as from a fountaine ſpringeth all euill actions Iob. 14.4.</p>
+            <p>
+               <hi>Q.</hi> What call you Actuall ſinne?</p>
+            <p>
+               <pb n="20" facs="tcp:151003:15"/>
+               <hi>An.</hi> Actuall ſinne is that ſtream<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſinne which floweth out of our co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rupted nature in the tranſgreſſion of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the commandements of Almigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> god<note n="a" place="margin">Iac. 1.14.15.</note> the ſeueral parts wherof are ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led the works of darknes and deeds <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fleſh. Rom. 13.12. Galath 5.19.</p>
+            <p>
+               <hi>Q.</hi> How many wayes doe we act<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ally ſinne?</p>
+            <p>
+               <hi>An.</hi> Two wayes. In doeing thou euill things which the lord hath for<g ref="char:EOLunhyphen"/>bidden vs; and in leauing vndone thoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good things which the lord hath com<g ref="char:EOLhyphen"/>manded vs. Deut. 5.32. Deut. 11.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Q.</hi> How many waies doe we bot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theis?</p>
+            <p>
+               <hi>An.</hi> Two wayes. Inwardly an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> outwardly.</p>
+            <p>
+               <hi>Q.</hi> How Inwardly?</p>
+            <p>
+               <hi>A.</hi> In thoughts &amp; iudgments of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mind, &amp; luſts &amp; affections of the hear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epheſ. 4.17.18.23. Coloſ. 3.5.</p>
+            <p>
+               <hi>Q.</hi> How outwardly?</p>
+            <p>
+               <hi>An.</hi> In words and deeds Rom. 6.13 Rom. 5.29.30. Rom. 3.12.13.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 15.</p>
+            <p>
+               <hi>Q.</hi> Are all the actions of all me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> finne?</p>
+            <p>
+               <pb n="21" facs="tcp:151003:15"/>
+               <hi>An.</hi> There are natural actions in all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en which of themſelues be not ſinne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut as they proceede from our corrup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d nature they are made ſinfull. Ro. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 18. Iob. 14.4.</p>
+            <p>
+               <hi>Q.</hi> Doeth no man then any thinge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ſinne in all his actions?</p>
+            <p>
+               <hi>An.</hi> The naturall man doth nothing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ſinne in all his actions. Rom. 8.6.7.<note place="margin">Pſal. 14.3.1. Cor. 2.14 Rom. 7.18.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pro 15.8.9.26.</p>
+            <p>Q. what meane you by the naturall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an?</p>
+            <p>
+               <hi>An.</hi> He whoſe heart and conſcience <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not renewed,<note place="margin">1. Iohn. 3.10. Rom. 12.2.</note> purged and ſanctified <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the ſpirit of grace, through faith &amp; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pentance in Ieſus Chriſt. Act. 15.9. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cor. 1.2. Rom. 8.9.</p>
+            <p>Q. Is there any man that doth not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nne in his actions?</p>
+            <p>
+               <hi>An.</hi> The Regenerated man doth not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommit ſinne,<note place="margin">1. Ioh. 3.3.6.9.</note> becauſe he is led by the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>irit of God. Rom. 8.11. Eph. 4.20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1, 22, 23, 24. Gala. 2.20.</p>
+            <p>Q. Is there no ſinne in the actions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f a regenerated man?</p>
+            <p>
+               <hi>An.</hi> Yes;<note place="margin">Ieſ. 64.6. 1. Cor. 13.9.12.</note> for all our righteouſnes is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a ſtained clout, and there is no per<g ref="char:EOLhyphen"/>fection
+<pb n="22" facs="tcp:151003:16"/>
+in this life.</p>
+            <p>Q. Why ſay you then that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>generate man doth not commit ſinn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>An.</hi> He is not ſaid to commit ſinn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe it is not he that ſinneth,<note place="margin">Rom. 7.15.17.20.</note> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſinne that dwelleth in him.</p>
+            <p>
+               <hi>Q.</hi> What is the puniſhment of ſin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>An.</hi> The curſe of God. Deut. 27.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gal. 3.10.</p>
+            <p>
+               <hi>Q.</hi> What meane you by that?</p>
+            <p>
+               <note place="margin">Deu. 28.15. &amp;c. Mat. 25.41. Rom. 6.23. Ieſ. 66.24. Mark. 9.43.44.</note>
+               <hi>An.</hi> It is an eternall ſeparation fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the fauour of God and all his merci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which hath adioyned vnto it all miſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ries and calamities of this life, death <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the end, and eternall torments both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſoule and bodie in hell euer after. Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 5.29. Math. 22.13. Reuel. 20.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 14.</p>
+            <p>
+               <hi>Q.</hi> Is there nothing which a ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may doe to ſerue as a ſufficient reco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pence to God for one ſinne?</p>
+            <p>
+               <hi>An.</hi> No, although I ſhould giue<note n="(a)" place="margin">Luke. 17.10.</note> all my goods to the poore, or ſuffe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my bodie to be (b) whipped all my li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long,<note place="margin">Col. 2.23.</note> or ſuffer any other puniſhme<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which might be deuiſed, yet it were no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſufficient for one of my leaſt ſinnes.</p>
+            <p>
+               <pb n="23" facs="tcp:151003:16"/>
+               <hi>Q.</hi> Why ſo?</p>
+            <p>
+               <hi>An.</hi> For ſinne is infinite, becauſe it offendeth the infinite maieſtie, &amp; there<g ref="char:EOLhyphen"/>fore deſerueth an infinite puniſhment. Pſal 51.4.</p>
+            <p>
+               <hi>Q.</hi> Yea but God<note n="(a)" place="margin">1. Cor. 1.3. Pſalm. 18.45. &amp; 86.15.</note> is mercifull will he therefore puniſh ſinne ſo ſharpely?</p>
+            <p>
+               <hi>An.</hi> Our God indeed is mercifull but he is alſo<note n="b" place="margin">Pſalm. 7.9. Pſalm. 11.5. Rom. 3.4. Ioh. 3.33.</note> iuſt and true, &amp; there<g ref="char:EOLhyphen"/>fore of his iuſtice and truth he muſt needs puniſh mans ſinne with that pu<g ref="char:EOLhyphen"/>niſhment which he hath appointed.</p>
+            <p>
+               <hi>Q.</hi> Seing then this puniſhment muſt needs be ſuffered, are we in our ſelues able to ſuffer and ouercome it?</p>
+            <p>
+               <hi>An.</hi> None is able to ſuffer<note n="a" place="margin">Pſal. 130.3. Math. 19.25.</note> and ouercome this great puniſhment of ſinne being onely man.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this?</p>
+            <p>
+               <hi>An.</hi> That my ſtate is moſt miſerable in reſpect of the greatnes of my ſinne and the horrible puniſhment due vnto the ſame. Rom. 7.24.</p>
+            <p>
+               <hi>Q.</hi> What profit is it to you to knowe this your miſerable eſtate?</p>
+            <p>
+               <hi>An.</hi> Firſt I am taught thereby to knowe mine owne vnworthines, and
+<pb n="24" facs="tcp:151003:17"/>
+that I ſhould not ſeeke to bee ſaued by mine own works or merits<note n="(a)" place="margin">Deut. 7.7. Deut. 9.6. Dan. 9.18.</note> Second<g ref="char:EOLhyphen"/>ly to bewaile this my miſerable eſtate with a godly ſorrow<note n="(b)" place="margin">Rom. 7.24. 1. Cor. 7.9.10.</note> Thirdly to de<g ref="char:EOLhyphen"/>teſt and abhorre ſinne becauſe it bring<g ref="char:EOLhyphen"/>eth nothing with it but the curſe of God<note n="(c)" place="margin">Rom. 6.21.23.</note> Fourthly to call heartely vpon God, and ſue for his grace, that I may find and apprehend the riches of his mercie for my redemption<note n="(d)" place="margin">Epheſ. 1.17. &amp; 3.16.17. &amp; 4.1.2.</note>
+            </p>
+            <p>Q. Is there any meanes whereby we may be deliuered from this miſera<g ref="char:EOLhyphen"/>ble eſtate?</p>
+            <p>
+               <hi>A.</hi> Yes: there is a meanes which is taught vnto vs in the 3. of Iohn. For God ſo loued the world,<note place="margin">Iohn. 3.16.</note> that he gaue his onely begotten ſonne, that whoſo<g ref="char:EOLhyphen"/>euer beleeued in him ſhould not pe<g ref="char:EOLhyphen"/>riſh, but haue euerlaſting life.</p>
+            <p>Q. What learne you out of this?</p>
+            <p>
+               <hi>A.</hi> That whereas the paines which our ſinnes deſerue muſt needes be ſuf<g ref="char:EOLhyphen"/>fered by man, becauſe God of his iu<g ref="char:EOLhyphen"/>ſtice muſt needes puniſh ſinne in man, which was committed by man: there<g ref="char:EOLhyphen"/>fore our Sauiour Chriſt beeing euerla<g ref="char:EOLhyphen"/>ſting god, became alſo<note n="(a)" place="margin">Gal. 4.4. Heb. 2.9.10.14.15.16.17. Heb, 4.15. 1 Tim. 2.5. Rom. 8.3.4.</note> man, &amp; hath
+<pb n="25" facs="tcp:151003:17"/>
+fully<note n="b" place="margin">Gal. 3.13. Rom. 4.25. Ioh. 1.29. 2. Cor. 5.21. Eſay 53.6. Rom. 8.3. 1. Iohn. 3.16.18.36.</note> ſuffered whatſoeuer was due for mans ſinne in his owne perſon.</p>
+            <p>Q. Are all people diſcharged, ſee<g ref="char:EOLhyphen"/>ing the puniſhment is paid?</p>
+            <p>
+               <hi>A.</hi> None are diſcharged ſauing thoſe that tooke<note n="(a)" place="margin">Col. 2.2. 1 Iohn. 3.2. Eph. 3.12. Rom. 8.38.39. Eph. 1.18. Epheſ. 2.8. Acts. 15.11</note> hold vpon Chriſt and his merits by a true faith.</p>
+            <p>Q. What call you this true faith?</p>
+            <p>
+               <hi>A.</hi> It is a ſpeciall worke of Gods ſpirit in our hearts, whereby we be<g ref="char:EOLhyphen"/>leeue to be ſaued by the grace of our Lord Ieſus Chriſt.</p>
+            <p>Q. What doe you ſee by this true faith?</p>
+            <p>
+               <hi>A.</hi> My ſinnes both to be forgiuen me, and yet fully puniſhed.</p>
+            <p>Q. How can that be?</p>
+            <p>
+               <hi>A.</hi> For in Ieſus Chriſt to<note place="margin">2 Cor. 5.21. Rom. 3.25.</note> ſatisfie Gods iuſtice they be<note n="b" place="margin">1. Ioh. 2.1.12. Gala. 3 13. Rom. 4.25.</note> fully puniſh<g ref="char:EOLhyphen"/>ed, and yet to me they be<note n="c" place="margin">1. Cor. 5.9.</note> forgiuen, becauſe in me they be not puniſhed, but in Chriſt for me to ſet forth Gods mercie: and therefore they ſhall neuer be laid to my charge: in this manner therefore I ſee the Lord my God to be both mercifull and iuſt.</p>
+            <p>Q. Yea but although the puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="26" facs="tcp:151003:18"/>
+of thy ſinnes be fully diſcharged in Chriſt, yet ſeeing there can no vn<g ref="char:EOLhyphen"/>righteouſneſſe dwell with God, how canſt thou ſtand before the iudgement ſeat of God as iuſt and righteous, ſee<g ref="char:EOLhyphen"/>ing thou haſt no righteouſnes but that which is ſtained with many ſinnes?</p>
+            <p>
+               <hi>A.</hi> I ſtand as iuſt and righteous be<g ref="char:EOLhyphen"/>fore the throne of God, not cloathed with my owne righteouſnes, but with the<note n="(a)" place="margin">1. Cor. 1.30. 2. Cor. 5.21. Rom. 3.28.</note> righteouſneſſe of Ieſus Chriſt, which righteouſnes beeing taken hold vpon<note n="b" place="margin">Epheſ. 3.17. Rom. 3.28. Ioh. 3.18.</note> by a true faith, is made mine: thus am I iuſt and righteous in the ſight of God, not in reſpect of my own workes which I wrought in my owne perſon, but by taking hold vpo<g ref="char:cmbAbbrStroke">̄</g> Chriſts works to be mine by faith.</p>
+            <p>Q. Doth not this doctrine make men careleſſe, &amp; ſo runne into all ſinne and wickednes?</p>
+            <p>
+               <hi>A.</hi> No: for this true faith as ſoone as it is wrought in vs<note n="(a)" place="margin">Ioh. 3.3.5. Eph. 4.20. Coloſ. 3.9. Rom. 6.6. &amp; 12.1.2.</note> through the holy Ghoſt, doth frame our hearts a<g ref="char:EOLhyphen"/>new, and cauſeth vs to<note n="(b)" place="margin">Rom. 7.23.</note> deteſt, hate, loath, and abhorre ſinne in all men, but eſpecially in our ſelues, and maketh vs
+<pb n="27" facs="tcp:151003:18"/>
+to haue our<note n="c" place="margin">Rom. 5.12.11.</note> whole delight, ioy, and comfort in thoſe things which be a<g ref="char:EOLhyphen"/>greeable to Gods will, and cauſeth vs alſo to<note n="d" place="margin">Rom. 6.11.1.13. Mat. 7.17. Ioh. 15.5.</note> expreſſe the ſame in our god<g ref="char:EOLhyphen"/>ly liuing and conuerſation, or els it is no true faith but a<note n="e" place="margin">Iam. 2.17. Iam. 2.17.20. Ioh. 15.6. Pſal. 92.12.13. Ioh 15.5. Math. 7.17.18 &amp;c. Gala. 5.6.</note> dead faith.</p>
+            <p>Q. What difference is betweene a dead faith, and a true faith?</p>
+            <p>
+               <hi>A.</hi> A dead faith is like a barren and withered tree that bringeth forth no fruit: a true faith is like a liuing and fruitfull tree that euer bringeth forth good fruit to the glorie of God.</p>
+            <p>Q. What be the fruits of a true faith?</p>
+            <p>
+               <hi>A.</hi> A continuall and true repen<g ref="char:EOLhyphen"/>tance, and euery good grace of Gods ſpirit, and all the good workes which he hath ordained for vs that we ſhould walke in them. Eph. 2.10. 2. Pet. 1.5.9.11.12. Eph. 415.</p>
+            <p>Q. What meane you by repentance?<note place="margin">Gal. 6.15. 2. Cor. 7.1. R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 12.1. 2 Eph. 4.20.21.22. &amp;c. 1. Pet. 1.13. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 15.1. Pet. 2.1.11.12.</note>
+            </p>
+            <p>A. That change and renewing of the whole man that bringeth forth a new, Chriſtian, and holy life and conuerſati<g ref="char:EOLhyphen"/>on, growing and increaſing more and more.</p>
+            <p>
+               <pb n="28" facs="tcp:151003:19"/>Q. How many things be required in true repentance?</p>
+            <p>
+               <hi>A.</hi> Two: the mortifying and ſub<g ref="char:EOLhyphen"/>duing of ſinne, and the liuing &amp; grow<g ref="char:EOLhyphen"/>ing in the practiſe of true godlines and righteouſnes: 2. Cor. 7.1. both which doe proceede from the vertue of the death and reſurrection of Ieſus Chriſt,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 6.2.3.4.5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.12. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 12.1.2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 3.1.2.5.9. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. Pet. 1.2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.23. Gal. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15.16.</note> into whome we are ingrafted by faith.</p>
+            <p>Q. Seeing then we be ſaued by Chriſts works, without our deſeruings, whereto ſerue our wel-doings, or what auaileth it to doe good works?</p>
+            <p>
+               <hi>A.</hi> We muſt doe good workes, not to deſerue<note n="(a)" place="margin">Eſay. 46.6. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 35.7. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 17.2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ik. 17.10.</note> ſaluation by them; but by our works to<note n="(b)" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 5.16. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 6.20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 2.12. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol. 1.10. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 1.27. &amp; 2.</note> glorifie God in<note n="(c)" place="margin">Theſ. 2.12. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 4. &amp; 4.1.</note> wal<g ref="char:EOLhyphen"/>king as becometh Gods children<note n="(d)" place="margin">Rom. 6.11, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. &amp; 12.1.2.</note>, declaring thereby our thankfulnes to God for our redemption. Secondly, by our works to make our<note n="(e)" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pet. 1.10.</note> electio<g ref="char:cmbAbbrStroke">̄</g> more certaine to our ſelues. Thirdly, to<note n="(f)" place="margin">Pet. 3.1.2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 14.29.</note> win others to Chriſt by our holy life and conuerſation.</p>
+            <p>
+               <hi>Q.</hi> What works calleſt thou good works?</p>
+            <p>
+               <hi>An.</hi> Our worke can neuer be accep<g ref="char:EOLhyphen"/>table and good in the ſight of God vn<g ref="char:EOLhyphen"/>les
+<pb n="29" facs="tcp:151003:19"/>
+in doing of them wee keepe theſe two things; firſt that<note n="a" place="margin">Eph. 2.10. Colloſ. 2.10.22.23. Eſay 9.13. Mat. 15.9. Rom. 14.23. Heb. 11.6. 1. Cor. 5.7.</note> they be framed according to the will of Gods lawes and commandements and not after our owne deuiſes.</p>
+            <p>Secondly that they proceede from an heart purged by fairh; if either of theſe points be lacking our works are abhominable in the ſight of God al<g ref="char:EOLhyphen"/>though they appeare neuer ſo glorious in the eyes of men.</p>
+            <p>
+               <hi>Q.</hi> What things ought euery one to beleeue which hath this true faith in Ieſus Chriſt with out the which none can be ſaued?<note place="margin">4. parte.</note>
+            </p>
+            <p>
+               <hi>An.</hi> All thoſe things which are con<g ref="char:EOLhyphen"/>tained in the articles of our chriſtian faith.</p>
+            <p>
+               <hi>Q</hi> Rehearſe the articles of our chri<g ref="char:EOLhyphen"/>ſtian faith</p>
+            <p>
+               <hi>A.</hi> I beleeue in God the father al<g ref="char:EOLhyphen"/>mightie maker of heauen and earth and in Ieſus Chriſt his only ſonne our Lord which was conceiued by the holy ghoſt borne of the virgin Marie ſuffered vn<g ref="char:EOLhyphen"/>der Pontius Pilat was crucified dead and buried he decended into hell the
+<pb n="30" facs="tcp:151003:20"/>
+third day he roſe agane and aſcended into heauen and there he ſitteth at the right hand of God the father Almigh<g ref="char:EOLhyphen"/>tie, from thence he ſhall come to iudge both the quicke and the dead. I be<g ref="char:EOLhyphen"/>leeue in the holy Ghoſt, the holy Ca<g ref="char:EOLhyphen"/>tholike Church, the Communion of Saints, the forgiuenes of ſinnes, the re<g ref="char:EOLhyphen"/>ſurrection of the bodie, and the life e<g ref="char:EOLhyphen"/>uerlaſting. Amen.</p>
+            <p>
+               <hi>Q.</hi> What things are contained in theſe articles of your chriſtian faith?</p>
+            <p>
+               <hi>An.</hi> Firſt what we ought to beleeue concerning God. Secondly what we ought to beleeue concerning Gods people called the Church.</p>
+            <p>
+               <hi>Q.</hi> What ought we to beleeue con<g ref="char:EOLhyphen"/>cerning God?</p>
+            <p>
+               <hi>A.</hi> Firſt, ſuch things as concerne God in his nature and eſſence. Second<g ref="char:EOLhyphen"/>ly, ſuch things as concerne God in his actions.</p>
+            <p>
+               <hi>Q.</hi> What ought we to beleeue con<g ref="char:EOLhyphen"/>cerning God in his nature or eſſence?</p>
+            <p>
+               <hi>A.</hi> Firſt, that he is one infinite, inui<g ref="char:EOLhyphen"/>ſible, and eternall ſpirit, of vnſearchable maieſtie, moſt holy, mightie, wiſe, iuſt, and mercifull (a). Secondly, (b) that the
+<pb n="31" facs="tcp:151003:20"/>
+ſelfe ſame God, beeing one in eſſence hath made himſelfe knowne vnto vs in three ſundrie perſons, the father, the ſonne, and the holy Ghoſt.<note n="a" place="margin">Rom. 11.34.35, 36. Rom 9.11.22, 23.</note> Deut. 6.4. Ieſ. 43.11. &amp; 44.8. &amp; 46.5. &amp; 46.5. Ieſ. 57.15. &amp; 66.1. 2. Ioh. 4.24. Ioh. 1.18. 1. Tim. 1.17. Rom. 9.33. Exod. 34.6, 7. Pſal. 103.8, 9, 10, 11.<note n="b" place="margin">Pſal. 33.6. Gen. 1.31. Ie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.10.11.12.16. Col. 1.16.</note> Matth. 3.16, 17 &amp; 28.19.</p>
+            <p>
+               <hi>Q.</hi> What ought we to beleeue con<g ref="char:EOLhyphen"/>cerning God in his actions?</p>
+            <p>
+               <hi>A.</hi> Firſt,<note n="a" place="margin">Rom. 11.34.35, 36. Rom 9.11.22, 23.</note> that he hath decreed and ordained all things in his eternall pur<g ref="char:EOLhyphen"/>poſe and counſell before all worlds. Secondly, that by his Almightie pow<g ref="char:EOLhyphen"/>er he hath made the heauens and the earth, and all the creatures therein. Thirdly,<note n="c" place="margin">Mat. 10.39.30. Pſal. 115.3. &amp; 135.6. Pſal. 145 17.</note> that he doth rule &amp; gouern them and all their actions according to the good purpoſe of his owne will moſt holily, righteouſly, and wiſely.</p>
+            <p>
+               <hi>Q.</hi> Why is God called Almightie?</p>
+            <p>
+               <hi>A.</hi> Becauſe he is of all-ſufficient power in himſelfe to worke all things according to the good purpoſe of his owne will,<note place="margin">Ieſ. 42.8. &amp; 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 13 &amp; 44.24.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; 49.7. Mat. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 29.30.</note> ſo as nothing can be done in heauen, earth, or hell, without his
+<pb n="32" facs="tcp:151003:21"/>
+prouidence. Act. 4.28.</p>
+            <p>Q. Why doe you call God father?</p>
+            <p>
+               <hi>A.</hi> Firſt, in reſpect of creation. Se<g ref="char:EOLhyphen"/>condly, in reſpect of adoption.</p>
+            <p>Q. Why in reſpect of creation?</p>
+            <p>
+               <note place="margin">Rom. 11.38. Acts. 17.25.38.</note>
+               <hi>A.</hi> Becauſe of him, from him, and by him all things haue their beeing &amp; beginning.</p>
+            <p>
+               <hi>Q.</hi> Why in reſpect of adoption?</p>
+            <p>
+               <note place="margin">Eph. 1.5. Gal. 4.5.6.</note>A. Becauſe he hath adopted thoſe whome he hath choſen to be his chil<g ref="char:EOLhyphen"/>dren in Ieſus Chriſt.</p>
+            <p>
+               <hi>Q.</hi> What comfort haue you in this that you call God father?</p>
+            <p>
+               <hi>A.</hi> I learne thereby that he loueth me, and hath a moſt tender care ouer me. Pſal. 103.13. Rom. 5.5.8.</p>
+            <p>Q. What comfort haue you in this that God whome you call father is Al<g ref="char:EOLhyphen"/>mightie?</p>
+            <p>
+               <hi>A.</hi> I learne thereby that he can and will defend me from all euill, ſo as no<g ref="char:EOLhyphen"/>thing can hurt me, and that he can and will giue me all things that be good for me in this life, and in the life to come.</p>
+            <p>
+               <hi>Q.</hi> Why ſo?</p>
+            <p>
+               <pb n="33" facs="tcp:151003:21"/>
+               <hi>An.</hi> He can becauſe he is almightie, he will becauſe he is my louing father.</p>
+            <p>
+               <hi>Q.</hi> What dutie doe you learne here concerning your ſelfe?</p>
+            <p>
+               <hi>An.</hi> That I ſhould honor him as my heauenly father.<note place="margin">Malech. 1.6.</note>
+            </p>
+            <p>
+               <hi>Q.</hi> How?</p>
+            <p>
+               <hi>An.</hi> In louing him, fearing him, re<g ref="char:EOLhyphen"/>uerencing him, and obeying him the ſixt commandement.</p>
+            <p>
+               <hi>Qu.</hi> Wherin muſt we ſhew forth this?</p>
+            <p>
+               <hi>An.</hi> In the care that I haue to keepe his commandements.</p>
+            <p>Q. Wherin ſtandeth the keeping of the commandements?</p>
+            <p>
+               <hi>An.</hi> In doeing thoſe good things which the lord hath commanded; and in leauing vndone thoſe euill things which the lord hath forbidden.</p>
+            <p>
+               <hi>Q.</hi> What beleeueſt thou in the ſe<g ref="char:EOLhyphen"/>cond part concerning god the ſonne?</p>
+            <p>
+               <hi>An.</hi> I beleeue that Ieſus Chriſt one<note n="(a)" place="margin">Rom. 9.5. Iohn 1.1. Ioh. 14.10.</note> God in ſubtance with the father &amp; the holy ghoſt<note n="b" place="margin">Rom. 1.3. Mat. 1.20.2.</note> tooke fleſh of the virgin Marie &amp; is become perfect man as I am in all things,<note place="margin">Heb. 2.14.15. Rom. 8.3.</note> ſinne onely excep<g ref="char:EOLhyphen"/>ted
+<pb n="34" facs="tcp:151003:22"/>
+               <note n="c" place="margin">Heb. 2.14.15. Rom. 8.3.</note> and in my nature hath wrought whatſoeuer was needfull for my ſalua<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Q.</hi> What meaneſt thou when thou ſaieſt he ſuffered vnder Pontius Pilate</p>
+            <p>
+               <hi>An.</hi> Becauſe that manner of death which men doe ſuffer by the ſentence of the iudg &amp; vnder the title of iuſtice, is more ſhamefull, ſlanderous and terri<g ref="char:EOLhyphen"/>ble, then if a man ſhould die naturally in his bed: Therfore our ſauiour Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tooke vpon him our perſon to ſhew himſelfe<note n="(a)" place="margin">Pſal 2.2. Acts. 4.27</note> before an earthly iudg and to be<note n="b" place="margin">Mat. 27.16. Ioh. 19.1.13.23.</note> condemned by the mouth of Pilate he beeing then Iudg, that there<g ref="char:EOLhyphen"/>by we might bee cleared before the iudgement ſeate of God.</p>
+            <p>
+               <hi>Q.</hi> What meaneſt thou when thou ſayeſt Chriſt was crucified dead and buried?</p>
+            <p>
+               <hi>An.</hi> Firſt I meane in that he was crucified that he ſuffered<note n="(a)" place="margin">Luk. 23.33.</note> the death of the Croſſe which was an abhomi<g ref="char:EOLhyphen"/>nable and curſed death<note n="b" place="margin">Gal. 3.13.14.</note> to deliuer me from the curſe which was due for my ſinnes. Secondly for as much as death was a puniſhment due to man
+<pb n="35" facs="tcp:151003:22"/>
+for ſinne; therefore our Sauiour Chriſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſuffer death and by ſuffering ouer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me death; for in his death did lie <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> principall point of our ſaluation; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r if he had not bin truly<note n="c" place="margin">Eſay. 53.12. Rom. 5.8. 1. Cor. 15.3. 1. Pet. 2.24.</note> dead we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d bin yet ſubiect to eternall death <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d damnation. Thirdly he was buried <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the greater aſſurance and confirma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of his death, and reſurrection, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the intent to make it more certainely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne vnto vs, it pleaſed him alſo to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e buried after the common manner of men, and that by two Notable per<g ref="char:EOLhyphen"/>ſons<note n="d" place="margin">Mat. 27.57. Mar. 15.43. Luke 23.53.</note> 
+               <hi>Nicodemus</hi> and <hi>Ioſeph</hi> of <hi>Ara<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athia,</hi> which was alſo doone by the will and conſent of <hi>Pilate</hi> who cauſed the bodie to be deliuered vnto them.</p>
+            <p>
+               <hi>Q.</hi> What meaneſt thou concerning that Chriſt deſcended into hell?</p>
+            <p>
+               <hi>An.</hi> Where it is ſayd that Chriſt deſcended into hell therby I beleeue that Chriſt did not only ſuffer in his bo<g ref="char:EOLhyphen"/>dy the puniſhment due to my body,<note n="(a)" place="margin">Eſay. 53.4.8.10.</note> but alſo in his ſoule the puniſhme<g ref="char:cmbAbbrStroke">̄</g>t due to my ſoule,<note n="c" place="margin">Luk. 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.44.</note> which was the tor<g ref="char:EOLhyphen"/>ments of hell,<note n="d" place="margin">Luk. 23.46. Math 27.46.</note> ſecond death<note n="b" place="margin">Act. 2.24. Math. 26.38.</note> ſor<g ref="char:EOLhyphen"/>rowes of death, abiection from god as
+<pb n="36" facs="tcp:151003:23"/>
+it doth appeare by the anguiſh of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſoule in the garden<note n="c" place="margin">Luk. 22.44.</note> when drops blood iſſued out of his body and a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vpon the croſſe<note n="d" place="margin">Luk. 23.46. Math. 27.46.</note> by his lamentab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> crie vnto his father for in a miſerab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caſe had we bin in if he had only ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fered the puniſhment due to our bodie and not to our ſoules.</p>
+            <p>
+               <hi>Q.</hi> What fruite haſt thou by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> death of Chriſt?</p>
+            <p>
+               <hi>An</hi> Firſt I beleeue that this dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and puniſhment which Chriſt ſuffere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the whole appeaſing of<note place="margin">Heb. 9.12.13.14.28. 1. Pet. 2.24. 1. Ioh. 2.1.</note> go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wrath and a full ſatiſfaction to god f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all my ſinnes.</p>
+            <p>Secondly that<note n="b" place="margin">Gala. 5.24. Gala. 2.29.7.8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> as he is dead f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſinne ſo he will cauſe ſinne to die i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my mortal body.</p>
+            <p>
+               <hi>Q.</hi> What profitt haſt thou by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> riſing againe of Chriſt?</p>
+            <p>
+               <hi>An.</hi> Firſt I am aſſured by this riſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he hath<note n="(a)" place="margin">1. Cor. 15.55.56.57. Rom. 8.33.34. Rom. 4.15.</note> overcome death hell, ſinne and finiſhed my iuſtification<g ref="char:punc">▪</g> Secondly that as he is riſen from deat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo he cauſeth me as a member of hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note n="b" place="margin">Rom. 6.4. Coloſ. 3.1.2.</note> to riſe from ſinne and delight i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> righteouſnes. Thirdly his riſing again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="37" facs="tcp:151003:23"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a ſure pledge<note n="c" place="margin">1. Cor. 15.16.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> to me that my body <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall in like manner riſe againe.</p>
+            <p>Q. What is the meaning of this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at Chriſt aſcended into heauen?</p>
+            <p>
+               <hi>An.</hi> Chriſt as touching his man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood is<note n="a" place="margin">Act. 1.11. Act. 3.21.</note> onely in heauen: but<note n="b" place="margin">Mat. 28.20.</note> as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouching his godhead and comfort of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is holy ſpirit he is with vs to the end <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the world.</p>
+            <p>
+               <hi>Q.</hi> What good getteſt thou by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcending of Chriſt into heauen?</p>
+            <p>
+               <hi>An.</hi> Firſt Chriſt his aſcending into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eauen is a ſure pledge vnto me that<note n="a" place="margin">Ioh. 14.3. Phil. 3.21. 1. Cor. 1.7. 1. Theſ. 4.16.17.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall in like manner as a member of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y his power be receiued into heauen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame nature wherein he is aſcen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed. Secondly Chriſt hauing aſcended <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto heauen<note n="b" place="margin">1. Ioh. 1.2. Heb. 9.12. Rom. 8.32.</note> maketh co<g ref="char:cmbAbbrStroke">̄</g>tinuall inter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion for me.</p>
+            <p>
+               <hi>Q.</hi> What meane you by this that Chriſt ſitteth at the right hand of the father?</p>
+            <p>
+               <hi>An.</hi> Chriſt ſitteth at the right hand of the father, that is, he hath<note n="a" place="margin">Mat. 28.18. Eph. 1.20.21.22.</note> all power giuen him of the father ouer all things, being exalted into the full power of his kingdome and preiſthood &amp; made the
+<pb n="38" facs="tcp:151003:24"/>
+only head of his Church.</p>
+            <p>
+               <hi>Q.</hi> What fruit doeſt thou receiue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this that Chriſt ſhall come to iudge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quick and the dead?</p>
+            <p>
+               <hi>An.</hi> To me that am a member <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt it is ſingular comfort<note n="a" place="margin">Mat 24.31. Mat. 25.34. Mat. 19.28. 2. Theſ. 1.10.</note> whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doe knowe aſſuredly that none ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my iudge but he that is my Sauiour; b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terrible will it be to thoſe that flee fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt<note n="b" place="margin">2. Theſ. 1.4.7.8. Luk. 21.25. Mat. 15.41.</note> when they ſhall ſee him com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to iudge them whome they in their li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> time haue refuſed.</p>
+            <p>Q. What beleeueſt thou in the thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part concerning God the holy Ghoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>An.</hi> I beleeue that God the hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ghoſt the third perſon in the god<g ref="char:EOLhyphen"/>head, equall God with the father and the ſonne, finiſheth and maket<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perfect all the works of God, and<note n="a" place="margin">Rom. 8.9.10.11.15.16. Gala. 4.6.</note> ſealeth into my heart all Chriſts bene<g ref="char:EOLhyphen"/>fits to bee mine, and<note n="b" place="margin">Epheſ. 1.17. Eph. 4.23. Pſal. 1.3. Col. 2.11.12.13.</note> maket<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſinne to die in me and ſtirreth me vp to holines and righteouſnes of life.</p>
+            <p>Q. What call you the chatholike Church?</p>
+            <p>
+               <hi>An.</hi> The chatholike Church is the<note n="a" place="margin">Rom. 8 20. Eph. 1.10.11.12.13. Mat. 16.21. Ioh. 10.26.</note> whole companie of faithfull people
+<pb n="39" facs="tcp:151003:24"/>
+which euer were ſince the beginning of the world in all places, which alſo bee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow &amp; ſhal be to the end of the world, of the which number I beleeue that<note n="b" place="margin">1. Ioh. 3.21. 2. Cor. 13.5. Rom. 8.16.</note> I am one, I beleeue that God<note n="c" place="margin">2. Tim. 2.19. 1. Pet 5.7. Eſay 49.15. Mat. 10.29.30.31.</note> know<g ref="char:EOLhyphen"/>eth them all and hath a moſt tender care ouer them.</p>
+            <p>Q What calleſt thou the communi<g ref="char:EOLhyphen"/>on of Saints?</p>
+            <p>
+               <hi>An.</hi> The communion of Saints is that ſocietie that all we which beleeue haue one with another as<note n="a" place="margin">1. Cor. 12 12.13.14. &amp;c. 5.30. Col. 1.18. Rom. 1.12.5.</note> members of one head Ieſus Chriſt. Whereby we are<note n="b" place="margin">2. Cor. 11.28. Gala. 6.2. Phil. 2.1.23.4.</note> readie to communicate all gods benefits both ſpirituall and temporall to the mutuall helpe and comfort one of another according to the meaſure which we haue receiued of God in this life.</p>
+            <p>
+               <hi>Q.</hi> What beleeue you of the for<g ref="char:EOLhyphen"/>giuenes of ſinne.</p>
+            <p>
+               <hi>An.</hi> I beleeue that Ieſus Chriſt hath<note n="a" place="margin">1. Ioh. 2.2. Col. 1.14.20.21.22. 1. Cor. 1.30. Eſay. 53 45.6.8.12. Rom. 3.24.15. &amp; 5.8.10. 2. Cor. 5.19.</note> wholy appeaſed Gods wrath for my ſinnes and hath paied the full puniſh<g ref="char:EOLhyphen"/>ment due vnto them: and therefore that they are freely forgiuen me, and ſhall neuer be laid to my charge.</p>
+            <p>
+               <pb n="40" facs="tcp:151003:25"/>
+               <hi>Q.</hi> What beleeueſt thou of the ri<g ref="char:EOLhyphen"/>ſing againe of the bodie?</p>
+            <p>
+               <hi>Anſ.</hi> I beleeue that after this life ended<note n="a" place="margin">Luke 16.20. &amp; 12.20.</note> my ſoule ſhall goe to God that gaue it and my bodie ſhall reſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the graue vntill the appointed time and then I ſhall<note n="b" place="margin">Iob. 19.26.27. 1. Cor. 15.53. Philip. 3.21.</note> ſee God in my fleſh and theſe my eyes ſhall looke vpon him &amp; this my bodie ſhall be made like to the glorious bodie of Chriſt without al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> corrupion.</p>
+            <p>Q. What beleeue you of life euer<g ref="char:EOLhyphen"/>laſting?</p>
+            <p>
+               <hi>An.</hi> I beleeue that when God ſhall raiſe againe this my bodie and ioyne it together with my ſoule that then I ſhall liue with<note n="a" place="margin">1. Cor. 15.53.54. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. theſ. 4.17.</note> Chriſt for euer in his euer<g ref="char:EOLhyphen"/>laſting kingdom of glorie.</p>
+            <p>Q. Is it in our power to beleeue &amp; to attaine to this true faith?</p>
+            <p>
+               <note place="margin">5 part.</note>
+               <hi>Anſ.</hi> No, it is the ſpeciall worke of gods ſpirit in our harts by thoſe meanes which he hath appointed.</p>
+            <p>Q. By what meanes then may we attaine vnto faith?</p>
+            <p>
+               <hi>An.</hi> The holy Ghoſt hath appoin<g ref="char:EOLhyphen"/>ted the preaching of the word to bee
+<pb n="41" facs="tcp:151003:25"/>
+the ordinarie meanes whereby he<note n="a" place="margin">Rom 10.14.17. 1. Cor. 1.21.</note> worketh in our hearts this true and liuely faith and without the preaching of the word we can neuer haue faith by any ordinarie meanes.</p>
+            <p>Q. What daunger is it to bee with<g ref="char:EOLhyphen"/>out faith?</p>
+            <p>
+               <hi>An.</hi> Without faith it is impoſſible to pleaſe god. Heb. 11.6. for whatſo<g ref="char:EOLhyphen"/>euer is not of faith is ſinne. Rom. 14.23.</p>
+            <p>Q. By what meanes doth God in<g ref="char:EOLhyphen"/>creaſe and ſtrengthen this faith and the fruits thereof?</p>
+            <p>A. This faith and the fruits there<g ref="char:EOLhyphen"/>of doth God ſtrengthen and increaſe in vs by fowre meanes:<note place="margin">2. Cor. 8.7. &amp; 8. 2. Pet. 3.18.</note> by the ſelfe ſame preaching of the word; by vſe of the ſacraments; prayer; and Chri<g ref="char:EOLhyphen"/>ſtian gouernment.</p>
+            <p>Q. What call you Sacraments?</p>
+            <p>A. Sacraments are<note n="a" place="margin">Gene. 17.11 Exo. 12.3.4.5. &amp;c.</note> outward ſignes ordained of God for the greater aſſu<g ref="char:EOLhyphen"/>rance and ſtrengthening of our faith, beeing vnto vs<note n="b" place="margin">Rom. 4.11.</note> ſure ſeales and pled<g ref="char:EOLhyphen"/>ges of thoſe benefits of our ſaluation which we receiue in Chriſt to be ours,
+<pb n="42" facs="tcp:151003:26"/>
+and are repreſented vnto vs by the outward ſignes of water in Baptiſme, and bread and wine in the ſupper of the Lord, they ſerue alſo for a marke of our profeſſion whereby we differ from other people which be heathen.</p>
+            <p>Q. Tell me more ſhortly what is a ſacrament?</p>
+            <p>A. An outward ſigne ordained of God,<note place="margin">Rom. 4.11.</note> and a ſeale to aſſure vs that we are made partakers of Chriſt Ieſus and all his benefits vnto ſaluation, if we doe truly beleeue in him.</p>
+            <p>Q. How many things are to be con<g ref="char:EOLhyphen"/>ſidered in a ſacrament?</p>
+            <p>A. Two: the outward ſigne, and the inward thing ſignified.</p>
+            <p>Q. What meane you by the out<g ref="char:EOLhyphen"/>ward ſigne?</p>
+            <p>A. The outward element, appoin<g ref="char:EOLhyphen"/>ted by our Sauiour Chriſt, and all the rites belonging to the miniſtring and receiuing thereof, according to his in<g ref="char:EOLhyphen"/>ſtitution.</p>
+            <p>Q. What meane you by the in<g ref="char:EOLhyphen"/>ward thing ſignified?</p>
+            <p>A. Chriſt Ieſus himſelfe with all
+<pb n="43" facs="tcp:151003:26"/>
+his benefits vnto ſaluation, offered vnto vs in the ſacrament, and ſo alſo recei<g ref="char:EOLhyphen"/>ued of euery faithfull beleeuer.</p>
+            <p>Q. How many ſacraments be there?</p>
+            <p>A. There be<note n="a" place="margin">1. Cor. 10.1, 2, 3, 4.</note> two. Baptiſme, and the ſupper of the Lord.</p>
+            <p>Q. What is baptiſme?</p>
+            <p>A. The ſacrament of our new birth, whereby we are incorporated into the ſocietie of Gods people. Rom. 6.3.</p>
+            <p>Q. What benefits of your ſaluati<g ref="char:EOLhyphen"/>on are ſealed to you in baptiſme?</p>
+            <p>A. I am taught and aſſured by<note n="a" place="margin">Acts. 22.16. Mar. 1.4.</note> Baptiſme that my ſinnes are forgiuen me. For as the water waſheth away the filthines of the bodie, euen ſo ſhould I by the holy Ghoſt be thereby fully certified and perſwaded, that<note n="b" place="margin">1. Pet. 1.2.19. 1 Ioh. 1.7. Eph 5.26. Tit. 3.5.6. Acts. 22.16</note> the blood of Chriſt beeing ſprinkled vpon my ſoule by the<note n="c" place="margin">Acts 15.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> hand of faith, hath waſhed away both the guiltineſſe of my ſinne, and the horrible puniſhment due to the ſame, the fruite and effect wherof appeareth herein that through the power of Chriſts death and reſur<g ref="char:EOLhyphen"/>rection I am dead<note n="d" place="margin">Rom. 6 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6. &amp;c.</note> as touching ſinne, and raiſed vp againe<note n="e" place="margin">2. Cor. 5.17 Gala 5.24.25</note> to newneſſe of
+<pb n="44" facs="tcp:151003:27"/>
+life. Which two things in whomeſoe<g ref="char:EOLhyphen"/>uer they appeare not, they may well haue the name and title of baptiſme, but indeede they are no true Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+            <p>Q. What meane you by the ſupper of the Lord?</p>
+            <p>A. The ſacrament of our growth and ſpirituall foode, whereby we are to be nouriſhed till we come to a per<g ref="char:EOLhyphen"/>fect age in Chriſt.</p>
+            <p>Q. What benefits of your ſaluati<g ref="char:EOLhyphen"/>on are ſealed vnto you in the ſupper of the Lord?</p>
+            <p>A. The ſupper of the Lord through the holy Ghoſt doth ſtrengthen my faith, that I ſhould not doubt but be<g ref="char:EOLhyphen"/>leeue aſſuredly that as I receiue the bread and wine into my bodie to be<g ref="char:EOLhyphen"/>come wholly mine, ſo my<note n="a" place="margin">Mat. 26.20.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.28.</note> ſoule re<g ref="char:EOLhyphen"/>ceiueth withall, through faith, Chriſt with his<note n="b" place="margin">Cor. 10.16.17. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11.26.27.28. 1. Cor. 1.30. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 4.23. Cor. 5.31.</note> paſſion, ranſome, righteouſ<g ref="char:EOLhyphen"/>nes, and obedience, to become wholly mine, as ſurely as if I had performed all in mine owne perſon. 1. Cor. 1.30.</p>
+            <p>Q. Are not the bread and wine in the ſupper of the Lord turned into the
+<pb n="45" facs="tcp:151003:27"/>
+bodie and blood of Chriſt?</p>
+            <p>A. The bread and wine as touch<g ref="char:EOLhyphen"/>ing their nature and ſubſtance<note n="a" place="margin">Mat. 26.26.27.28. 1. Cor. 10.16.17. &amp; 11.24.25. &amp; 12.13.</note> are not turned, but as touching the vſe of them they differ from common bread and wine, in that they are appointed of god to ſerue vnto vs as<note n="b" place="margin">Rom. 4.11</note> ſure ſeales and pledges of thoſe benefits of our ſaluation which Chriſt in his bodie hath wrought for vs.</p>
+            <p>Q. What perſons are fit to be par<g ref="char:EOLhyphen"/>takers of this ſacrament?</p>
+            <p>A. Such as are able and doe fitly prepare themſelues.</p>
+            <p>Q. In what manner oughteſt thou to prepare thy ſelfe to receiue ſuch ho<g ref="char:EOLhyphen"/>ly myſteries?</p>
+            <p>A. In preparing my ſelfe to receiue the ſupper of the Lord, I ought dili<g ref="char:EOLhyphen"/>gently to obſerue theſe three things. Firſt, to<note n="a" place="margin">1. Cor. 11.28.</note> examine my ſelfe whether I<note n="b" place="margin">2. Cor. 13.5.</note> ſtand in faith or no, which I ſhall know if I feele my<note n="c" place="margin">Eph. 1.13. 2. Cor. 1.22. &amp; 5.5.</note> heart inwardly<note n="d" place="margin">Rom. 8.15. Eph. 3.12.</note> aſſured by the ſpirit of God, that the<note n="e" place="margin">1. Ioh. 2.1.2.</note> puniſhment of my ſinnes is fully diſcharged in Chriſt, and that whatſo<g ref="char:EOLhyphen"/>euer he hath wrought for mans ſalua<g ref="char:EOLhyphen"/>tion
+<pb n="46" facs="tcp:151003:28"/>
+pertaineth not onely to others, but euen<note n="(f)" place="margin">Eph. 3.17.18.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> to me. Seco<g ref="char:cmbAbbrStroke">̄</g>dly, to examine my ſelfe whether I find my heart<note n="g" place="margin">Mat. 26.75. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erem. 4.4. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oel 2.12.</note> in<g ref="char:EOLhyphen"/>wardly ſorie for my ſinnes with an in<g ref="char:EOLhyphen"/>ward hatred and loathing of ſinne, and an<note n="h" place="margin">Rom. 6.4.5.6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8. Phil. 3.13.14.</note> earneſt deſire and ſure purpoſe wholly to conforme my ſelfe to the will of Gods word. Thirdly, if any of<g ref="char:EOLhyphen"/>fence be betwixt others and me, that I<note n="i" place="margin">Mat. 5.23.24.</note> reconcile my ſelfe vnto them all, which things although they ought ear<g ref="char:EOLhyphen"/>neſtly to be conſidered in the<note n="k" place="margin">Luk. 1.74.75. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Peter. 1.15.</note> whole courſe of our life, yet then eſpecially when we come to receiue the ſupper of the Lord.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. part.</note>Q. Which is the third meanes that God hath appointed for the encreaſe and ſtrengthening of our faith, and all graces of God?</p>
+            <p>A. Prayer.</p>
+            <p>Q. What is prayer?</p>
+            <p>
+               <note place="margin">Pſal. 25.1. Pſal. 50.15. Pſal. 116.13.</note>A. It is an holy lifting vp of the heart vnto God, and a calling vpon his name.</p>
+            <p>Q. How many parts be there of prayer?</p>
+            <p>A. Two: Petitions, and Thankſgi<g ref="char:EOLhyphen"/>uing.
+<pb n="47" facs="tcp:151003:28"/>
+1. Tim. 2.1.</p>
+            <p>Q. What meane you by Petiti<g ref="char:EOLhyphen"/>ons?</p>
+            <p>A. Petitions are thoſe praiers wher<g ref="char:EOLhyphen"/>in we craue any thing at the hands of God.</p>
+            <p>
+               <hi>Q.</hi> What meane you by Thankſgi<g ref="char:EOLhyphen"/>uings?</p>
+            <p>A. Thankſgiuings are thoſe praiers wherein we acknowledge the benefits which we haue receiued at the hands of God, and giue him thankes for the ſame.</p>
+            <p>
+               <hi>Q.</hi> Where are you taught ro pray?</p>
+            <p>A. In the ſixth of Matthew.</p>
+            <p>
+               <hi>Q.</hi> How?</p>
+            <p>A. In that forme of praier which our Lord Ieſus Chriſt taught to his Diſciples.</p>
+            <p>
+               <hi>Q.</hi> Rehearſe that forme of prayer.</p>
+            <p>A. Our Father which art in heauen, hallowed be thy name, thy kingdome come, thy will be done in earth as it is in heauen: giue vs this day our daily bread, and forgiue vs our treſpaſſes, as we forgiue them that treſpaſſe againſt vs, and lead vs not into temptation, but
+<pb n="48" facs="tcp:151003:29"/>
+deliuer vs from euill, for thine is the kingdome, the power, and the glorie, for euer. Amen.</p>
+            <p>
+               <hi>Q.</hi> What doe you obſerue in this forme of praier?</p>
+            <p>A. Two things: the Preface, and the prayer.</p>
+            <p>
+               <hi>Q.</hi> Which is the preface?</p>
+            <p>
+               <hi>A.</hi> Our father which art in heauen.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this?</p>
+            <p>A. The neceſſarie circumſtances of true prayer.</p>
+            <p>
+               <hi>Q.</hi> What is to be obſerued in true praier?</p>
+            <p>A. It is requiſite that in true praier we obſerue theſe fiue things: firſt, that we make our praiers<note n="a" place="margin">Pſal. 50.15. &amp; 81.8. Rom. 10.13. Iam. 1.5 Marc. 4.10.</note> onely to God through<note n="b" place="margin">Ioh. 14.13. &amp; 15.16. &amp; 16.23.</note> Chriſt, and not to Saints, ſe<g ref="char:EOLhyphen"/>condly, that we be<note n="c" place="margin">1. Ioh. 5.14. Ioh. 4.23. Pſal. 51.17. &amp; 45.18. 2. Cor. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. Mat. 6 7. Rom. 8.26.</note> inwardly touch<g ref="char:EOLhyphen"/>ed with the neede of the thing that we aske, hauing our mindes wholly bent thereupon, and not carried away with by-thoughts: thirdly, that our praiers be grounded vpon<note n="d" place="margin">Iam. 1.6. Mar. 11.24. Luk. 11.9.1.11.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.13. Ioh. 5.15.</note> Gods promiſes with full aſſurance that they ſhall be graunted vnto vs ſo farre as the Lord ſhall ſee them meete and needefull for
+<pb n="49" facs="tcp:151003:29"/>
+vs: fourthly, that we<note n="e" place="margin">Luk. 18.1.2.3.5. &amp;c. Rom. 12.12.1. Theſ. 5.17. Eph. 9.18. Col. 4.2. Ma. 15.22.23.24. &amp;c.</note> continue in praier although we haue not our re<g ref="char:EOLhyphen"/>queſt at the firſt: fiftly, that we aske not thoſe things which we<note n="f" place="margin">Iam. 4.3. Rom. 8.16.</note> thinke good in our owne fantaſies, but as<note n="g" place="margin">1. Ioh. 5.14.</note> the Lord hath commaunded vs in his word.</p>
+            <p>
+               <hi>Q.</hi> What doe you obſerue in the praier it ſelfe?</p>
+            <p>A. Two things: the Petitions, and the thankſgiuing.</p>
+            <p>Q. How many ſorts of petitions be there?</p>
+            <p>
+               <hi>A.</hi> Two. Firſt thoſe petitions where<g ref="char:EOLhyphen"/>in we craue ſuch things as co<g ref="char:cmbAbbrStroke">̄</g>cerne the glorie of God.</p>
+            <p>Secondly thoſe petitions wherein we craue ſuch things as concerne our owne neceſſitie.</p>
+            <p>Q. How many things are we taught to craue for the glorie God?</p>
+            <p>
+               <hi>An.</hi> Three. Firſt that his name may be hallowed.</p>
+            <p>Secondly that this kingdome may come.</p>
+            <p>Thirdly that his will may be done in earth as it is in heauen.</p>
+            <p>
+               <pb n="50" facs="tcp:151003:30"/>Q. How many things are we taught to craue for our owne neceſſities?</p>
+            <p>
+               <hi>Anſ.</hi> Two. Firſt ſuch thing as con<g ref="char:EOLhyphen"/>cerne our naturall life. Secondly ſuch things as concerne our ſpirituall life.</p>
+            <p>Q. What doe you craue for your naturall life?</p>
+            <p>
+               <hi>An.</hi> Our daily bread.</p>
+            <p>Q. What for your ſpirituall life?</p>
+            <p>
+               <hi>An.</hi> Forgiuenes of ſinnes, and ſpiri<g ref="char:EOLhyphen"/>tuall ſtrength againſt our ſpirituall eni<g ref="char:EOLhyphen"/>mies.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the firſt petition?</p>
+            <p>
+               <hi>Anſ.</hi> In this firſt petition I deſire of my heauenly father that his name may bee hallowed. Firſt in his excellent works which is when we acknowledge<note n="a" place="margin">Pſalm. 113.2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; 145.1. Rom. 11.36. &amp; 16.27.</note> his mercie, wiſdome, iuſtice, and prouidence, that he alone worketh all things, and that he<note n="b" place="margin">Ioſua 1.24.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.52. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ioh. 5.21. Pſal. 8.10.11.</note> onely be had in honor, all other ſet aſide. Secondly that his name may be hallowed in our god<g ref="char:EOLhyphen"/>ly liuing and conuerſation.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the ſecond petition?</p>
+            <p>
+               <hi>An.</hi> In this ſecond petition we pray
+<pb n="51" facs="tcp:151003:30"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat God his kingdome<note n="c" place="margin">Eſaz. 52.5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eze. 36.20. Rom. 2 24.</note> may come, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is, that he would declare himſelfe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be king ouer his<note n="d" place="margin">Mat. 3.2. &amp; 5.19. &amp; 13.31.32.33.</note> church in gui<g ref="char:EOLhyphen"/>ling and defending it, in encreaſing of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he nu<g ref="char:cmbAbbrStroke">̄</g>ber of the faithfull, in<note n="e" place="margin">Mat. 9.38.</note> thruſting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth laborers into the harueſt &amp; bleſ<g ref="char:EOLhyphen"/>ſing their labours<note n="f" place="margin">1. Ioh. 3.8. Rom. 16.20.</note> ſuppreſſing the rage of the wicked Tirants.</p>
+            <p>Secondly that he would excerciſe his kingdome ſeuerally in euery one of vs<note n="g" place="margin">Rom. 8.10.11.13. &amp; 6.9. 1. Ioh. 5.8.9.</note> killing ſinne in vs and all world<g ref="char:EOLhyphen"/>ly cares; and ſtirring vs vp to holines &amp; righteouſnes of life.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the third petition?</p>
+            <p>
+               <hi>An.</hi> In the third petition we deſire that Gods will may be doone, that is, that we may<note n="h" place="margin">Luke. 22.42. Titus. 2.12. 1. Pet. 4.2. 1. Ioh. 2.1.</note> willingly in all things reſigne our ſelues to the will of Gods word without murmuring or grudg<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the fourth petition?</p>
+            <p>
+               <hi>An.</hi> In this fourth petition we pray that he would giue vnto vs<note n="i" place="margin">Gen. 3.19. Eph. 4.18. 1. Theſ. 2.9.1</note> walking faithfully in our caling our dayly bread, that is all<note n="k" place="margin">Pſal. 145.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 145.27. &amp; 10 26. Eſay. 3.1. Pſal. 78.18, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 20.29. &amp; 16.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1, 2, 3.</note> things needfull for our
+<pb n="52" facs="tcp:151003:31"/>
+liuing in this preſent life.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the fift p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tition?</p>
+            <p>
+               <hi>An.</hi> In this fift petition we pray th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> god would forgiue vs our ſinnes that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he would not lay to our charg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our ſinnes nor the puniſhment due un<g ref="char:EOLunhyphen"/>to them, but that he woulde accep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the death and paſſion of Ieſus Chriſt as the full ſatiſfaction for all our ſinnes and that we may hereof haue<note n="l" place="margin">Eph. 3.12. 1. Ioh. 5.13.20.</note> fu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſurance in our ſoules and conſcience<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the puniſhment of our ſinnes i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fully diſcharged in Chriſt, and therfore that they be freely forgiuen vs, as<note n="m" place="margin">Rom. 8.15. &amp; 8.38.39. Mat. 6.45. &amp; 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.5.1. Luke. 6.36. Iam. 2.13.</note> ſurely as we forgiue others and that we<note n="n" place="margin">Mat. 16.20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Tim. 4.17.18. Eph. 6.10.11. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cor. 10.13. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pet. 2.9.</note> loue one another inwardly in heart as our ſelues all deſire of reuenge ſet aſide.</p>
+            <p>Q. What pray you for in the ſixt petition?</p>
+            <p>
+               <hi>An.</hi> In this ſixt petition we pray that god would not lead vs into temp<g ref="char:EOLhyphen"/>tation but deliuer vs (that is) that he<note n="o" place="margin">Rom. 16.20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim 14.17.18. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 6.10.11. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 10.13. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pet. 2.9.</note> would not lead vs further into battaile with our ſpirituall enemies then we by his holy ſpirit may be able
+<pb n="53" facs="tcp:151003:31"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o preuaile and ouercome.</p>
+            <p>Q. Which is the thankſgiuing?</p>
+            <p>
+               <hi>An.</hi> For thine is the kingdome the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower and the glory for euer and euer. Amen.</p>
+            <p>Q. Why is this added?</p>
+            <p>
+               <hi>A.</hi> Not only to kindle in our hearts to<note n="a" place="margin">1. Cor. 10.3. Rom. 11.36.</note> deſire the glory of god: but alſo to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each vs that this prayer is grounded vpon none other then god only and that we ſhould not thinke the<note n="b" place="margin">Pſa. 114.7.</note> king<g ref="char:EOLhyphen"/>dome of god to be weake and voide of force and might but that<note n="c" place="margin">Deut. 9.13. Apo. 4.9.11. Apo. 5.12.13. 1. Cor. 26.10.11.12.13.</note> he is to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e honored, praiſed and glorified and that his power is infinite, perpetuall &amp; euerlaſting.</p>
+            <p>Q. What meaneth this word A<g ref="char:EOLhyphen"/>men?</p>
+            <p>
+               <hi>An.</hi> And in this word<note n="d" place="margin">1 Pet. 5.11. Apo. 6.14. Apo. 7.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Amen is the feruent deſire that we haue to ob<g ref="char:EOLhyphen"/>taine thoſe things which we aſke, and our hope is confirmed that thoſe things which we aſke are granted vnto vs, wherby our conſciences are pacified and with this word Amen we end our praiers. 1. Cor. 1 4.16.</p>
+            <p>
+               <hi>Q.</hi> Is there any ſpeciall helpe of
+<pb n="54" facs="tcp:151003:32"/>
+praier?</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. part.</note>
+               <hi>An.</hi> There is a ſpeciall helpe wher<g ref="char:EOLhyphen"/>of we haue both commandements and many examples in the ſcriptures.</p>
+            <p>And that is faſting. Leuit. 23.27.28 &amp; Ioſua. 7.6. Math. 9.15. Ioel. 2.12.15. Dan. 9.3.</p>
+            <p>
+               <hi>Q.</hi> What meane you by faſting?</p>
+            <p>
+               <hi>An.</hi> The chriſtian and religious fa<g ref="char:EOLhyphen"/>ſting is an holy abſtinence ioyned with praier in humbling of our ſelues that our praiers may be the more fer<g ref="char:EOLhyphen"/>uent. Dan. 9.3. Iona. 3.8.</p>
+            <p>
+               <hi>Q.</hi> From what muſt we abſtaine in this chriſtian faſting?</p>
+            <p>
+               <hi>An.</hi> Not only from all meates and drinks ſo far as the ſtate of our bodies may beare but alſo from all other euen lawfull things, delights, &amp; recreations which we naturally deſire and may lawfully vſe. Iona. 3.5. Ezra. 10.6. Eſter. 4.6.</p>
+            <p>Q. How long muſt this abſtinence be vſed?</p>
+            <p>
+               <hi>An.</hi> According to the cauſe for which we take it in hand; at the leaſt on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole day, from euening to euening or
+<pb n="55" facs="tcp:151003:32"/>
+from morning to morning, wherein we muſt ceaſe from all other labours, and keepe it in the manner of a Saboth. Leuit. 23.32. Dan. 10.2.3. Eſter. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4.16.</p>
+            <p>
+               <hi>Q.</hi> For what cauſe are faſts appoin<g ref="char:EOLhyphen"/>ted?</p>
+            <p>
+               <hi>An.</hi> To the better humbling of our ſelues in praier; to obtaine ſome ſpeci<g ref="char:EOLhyphen"/>all grace at gods hand, when we feele the want of any neceſſarie bleſſing, gift, or benefit: or to intreat the Lord to turne away or remooue any greiuous afflictions from our ſelues or others, either preſently vpon vs, or like to come. Ioſua 7.6. 1. Sam. 7.6. Iudges 20.26.</p>
+            <p>
+               <hi>Q.</hi> How many ſorts of chriſtian faſtes be there?</p>
+            <p>
+               <hi>An.</hi> Two. A priuat faſt, that is of any particular perſons or of ſeuerall fa<g ref="char:EOLhyphen"/>milies by themſelues. Nehem. 1.4. Cornelius. Act. 10.30. Eſter. 4.16. And a publique faſt in a whole congregati<g ref="char:EOLhyphen"/>on; ſome part of a country, or a whole nation being ordained and appointed by ſuch as are in authoritie. 2. Chron.
+<pb n="56" facs="tcp:151003:33"/>
+20.3. Iona. 3.7.</p>
+            <p>Q. What meane you by chriſtian gouerment?</p>
+            <p>
+               <hi>An.</hi> That order which god ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appointed to be amonge his people for the maintenance of peace and god lines.</p>
+            <p>Q. How many ſorts be there of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Two; eccleſiaſticall, and Ci<g ref="char:EOLhyphen"/>uile, and both theſe are both publike <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> priuate.</p>
+            <p>
+               <hi>Q.</hi> What call you publike eccleſia<g ref="char:EOLunhyphen"/>ſticall gouerment?</p>
+            <p>
+               <hi>An.</hi> That order of diſcipline which God hath appointed for his Church in exerciſing the power of the keyes to the cenſuring of offenders, the remoo<g ref="char:EOLunhyphen"/>uing of offences and the reſtoring o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch as haue falne. Math. 18.15.16 &amp;c. 1. Cor. 10.31.32. 1. Cor. 14.40 1. Theſ. 5.14.</p>
+            <p>
+               <hi>Q.</hi> By whome and how is this pow<g ref="char:EOLunhyphen"/>er to be vſed?</p>
+            <p>
+               <note place="margin">Tim. 5.17.16.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</note>
+               <hi>An.</hi> By the miniſters and ſuch as are lawefully called to haue gouerment in the church, admoniſhing, ſuſpending, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> excommunicating offendors, accor<g ref="char:EOLhyphen"/>ding
+<pb n="59" facs="tcp:151003:33"/>
+to the qualitie of their offence, &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtoring and receiuing into the church thoſe offendours that doe repent and reforme themſelues. 1. Theſſ. 5.14. 1. Cor. 5.4.5.13. 2. Cor. 2.6.7.8. 2. Theſſ. 3.14.15. 1. Tim. 5.20.</p>
+            <p>Q. What call you the publike civill gouernment?</p>
+            <p>A. That order which God hath ap<g ref="char:EOLhyphen"/>pointed to be kept by the authoritie of the Prince, Rulers, and Magiſtrates, for the puniſhment and brideling of ſinne, and the maintenance of peace &amp; quiet<g ref="char:EOLhyphen"/>nes among other people. Rom. 13.1, 2, 3, 4, 5. 1. Pet. 2.13.15.</p>
+            <p>Q. What difference is betweene the Eccleſiaſticall and ciuill puniſhment?</p>
+            <p>A. The puniſhment of the Church <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s inflicted vpon the ſoule and conſci<g ref="char:EOLhyphen"/>ence, by admonitions, reprehenſion, or ſeparating of the offendours from the Fellowſhip of the Church. 1. Cor. 5.4.5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3.</p>
+            <p>The ciuill puniſhment is inflicted vp<g ref="char:EOLhyphen"/>on the bodie or goods of malefactors, according to the lawes of Princes and countries.</p>
+            <p>
+               <pb n="60" facs="tcp:151003:34"/>Q. To what ende hath the Lord appointed this order?</p>
+            <p>A. That men might liue a peaceable and quiet life in all godlines and ho<g ref="char:EOLhyphen"/>neſtie. 1. Tim. 2.2.</p>
+            <p>Q. What call you priuate eccleſia<g ref="char:EOLhyphen"/>ſticall gouernment?</p>
+            <p>A. That gouernment which parent and gouernours of families ought t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> obſerue in teaching, inſtructing and in<g ref="char:EOLhyphen"/>forming their wiues, children, and ſer<g ref="char:EOLhyphen"/>uants, in the knowledge and fearing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, to auoid ſinne, and to liue god<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and vertuouſly. Gen. 18.19. Ioſ. 24.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1. Cor. 15.34.39. Eph. 6.4, 5, 6, 7, 8, 9.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tim. 2.9.10.11. &amp;c. 1. Pet. 3.1.23.</p>
+            <p>Q. What call you priuate ciuill go<g ref="char:EOLhyphen"/>uernment?</p>
+            <p>A. That gouernment which parent and gouernours of families ought al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to obſerue in correcting their childre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſeruants, for their amendment, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cording to the qualitie of the cauſe a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſon, and to keepe them in a lawf<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and orderly courſe of life. Prov. 19.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; 22.15. &amp; 23.13, 14. &amp; 20.30. 1. Pet. 18.19. Deut. 21.18, 19, 20.</p>
+            <trailer>The end of the Catechiſme.</trailer>
+         </div>
+         <div type="prayer">
+            <pb n="61" facs="tcp:151003:34"/>
+            <head>A morning prayer for a familie.</head>
+            <p>O Moſt mightie, eternall, and euerli<g ref="char:EOLhyphen"/>uing Lord God, maker of heauen and earth, and in Chriſt Jeſus thy deare<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beloued ſonne, our moſt patient, gra<g ref="char:EOLhyphen"/>cious, and mercifull father; wee thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oore vnworthie ſeruants here humb<g ref="char:EOLhyphen"/>ling our ſelues before thy diuine Maie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, doe vnfainedly acknowledge that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e are not worthie to lift vp our eyes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heauen, nor to enioy the leaſt of thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercies, beeing in our ſelues moſt vil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d wretched ſinners, guiltie both of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at originall corruption which wee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e receiued from the fall, and diſobe<g ref="char:EOLhyphen"/>dience of our forefather Adam, and al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of moſt grieuous and innumerable <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nſgreſſions of all thy holy lawes and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mmandements, in our thoughts, ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions, our wordes, and deedes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erein we haue fearefully ſinned and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elled againſt thee: both in omitting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good things thou doeſt command
+<pb n="62" facs="tcp:151003:35"/>
+vs, and in co<g ref="char:cmbAbbrStroke">̄</g>mitting thoſe euill things thou doſt forbid vs, in the duties of thy holy worſhip, the loue of our brethren, and the labours of our calling: we haue infinitely diſhonoured thy holy name and taken it in vaine, in that we haue not walked worthie of thy Goſpel, &amp; our holy calling and profeſſion: we haue defiled thy ſanctuarie and plac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of thy holy preſence, comming befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee with vnprepared hearts to offer v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our ſacrifice of praier &amp; thankſgiuing and to heare thy word, our lippes ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come neere vnto thee, but our hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue beene farre from thee; whereb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the heauenly inſtructions of thy h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly word haue beene ſtolne away fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vs, and made vnfruitfull, and we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come vnprofitable hearers. O Lord, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confeſſe we are not able to recken <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the leaſt meaſure of our ſinnes, for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are more then the haires of our he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whereby we haue fearefully prouoke thy wrath and indignation againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from day to day, and from time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time; giuing thee iuſt occaſion to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> priue vs of all bleſſings, and to pow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="63" facs="tcp:151003:35"/>
+downe all thy curſes vpon vs in all plagues and miſeries of this life, and to caſt vs out of thy preſence into euerla<g ref="char:EOLhyphen"/>ſting torments of ſoule and bodie in hell fire. Notwithſtanding, O Lord, ſee<g ref="char:EOLhyphen"/>ing thou haſt taught vs that mercie pleaſeth thee, and that if we confeſſe our ſinnes, thou art faithfull and iuſt to forgiue vs our ſinnes, and to purge vs from all our iniquitie: we flie vnto this thy mercie, and that in the onely name, merits, and mediation of thy ſonne Ie<g ref="char:EOLhyphen"/>ſus Chriſt, in whome onely and alone thou art well pleaſed, beſeeching thee for his ſake, to pardon and forgiue vs all our ſinnes, originall and actuall, to waſh away all the guiltines of them in his moſt innocent blood, to burie them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or euer in his moſt pretious death: to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urne thy face away from them, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom vs all thy iudgements and curſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich we haue worthily deſerued for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, either publique or priuate.</p>
+            <p>And we beſeech thee vouchſafe with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pretious water of thy ſpirit, daily to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſh and clenſe our hearts and minds, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir ſoules, and bodies, from all vnclea<g ref="char:EOLhyphen"/>nes
+<pb n="64" facs="tcp:151003:36"/>
+of ſinne, from all iniquitie and vn<g ref="char:EOLhyphen"/>godlines, from euery euill worke, and euill way, to worke in vs more and more a true ſight and hatred of all ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſinnes, with that Godly ſorrow tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may bring forth in vs repentance neue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be repented of, to arme vs with a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſpirituall armour, that may mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vs to ſtand ſtedfaſt and fight manfull<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnder thy banner in our holy profeſſio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of thy goſpell, make thy holy word t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dwell plentifully in vs with al wiſdom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that it may be vnto vs the ſword of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirit whereby wee may get victor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ouer all the power, malice, and ſubti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tie of Sathan, and all the wickednes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our owne ſinnefull, and rebellious na<g ref="char:EOLunhyphen"/>ture, ouer all the courſes, cuſtomes, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>caſions, and examples of this ſinne f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> euill world: yea ouer euery ſinne th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hetherto hath paſſed vs, euen thoſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue moſt ſtrongly preuailed again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vs, wherein wee haue moſt often a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fearefully falne, and to that which w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are moſt prone and ſubiect: that he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth we may walke in the waies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good men, &amp; in the paths of the rig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>teous,
+<pb n="65" facs="tcp:151003:36"/>
+that is, in the waie of thy lawes, and the path of thy commandements, hating all workes of darkenes, and be<g ref="char:EOLhyphen"/>hauing our ſelues in all things as the children of light.</p>
+            <div n="morning" type="prayer">
+               <head>This muſt be added for the day.</head>
+               <p>And now, Lord, wee further com<g ref="char:EOLhyphen"/>mend our ſelues and this whole family, and euery member of the ſame, vnto thy moſt gracious gouerment and protection the reſt of this day, beſeech<g ref="char:EOLhyphen"/>ing thee to watch ouer vs for good, and to preſerue vs from all dangers and euills that otherwaies may come vpon vs in ſoule or in bodie, or in any thing that belongeth vnto vs, ſtirring vp our hearts and ſtrengthening vs with thy grace to walke diligently and faithful<g ref="char:EOLhyphen"/>ly in our ſeuerall callings, making con<g ref="char:EOLhyphen"/>ſcience to beſtow this day, and all the daies of our life, &amp; all thy precious time which thou doeſt vouchſafe vs more profitably then euer we haue doone hi<g ref="char:EOLhyphen"/>therto; furniſh euery one of vs with all gifts and graces neceſſarie for our cal<g ref="char:EOLhyphen"/>lings, both gouernors, children, &amp; ſer<g ref="char:EOLhyphen"/>uants, that euery one of vs in our ſeue<g ref="char:EOLhyphen"/>rall
+<pb n="66" facs="tcp:151003:37"/>
+places may know how to behaue ourſelues, and faithfully to performe e<g ref="char:EOLhyphen"/>uery good dutie with all ſimplicitie and godly purenes, as thou doeſt teach vs in thy holy word; truly louing one an<g ref="char:EOLhyphen"/>other, truly caring one for another, to the glorie of thy name, the peace of our owne conſciences, our mutuall com<g ref="char:EOLhyphen"/>fort and the good example of all thoſe with whome we liue. Sanctifie vnto vs the vſe of all thy good creatures this day, bleſſe vs and proſper vs in all our labours, prouide mercifully for all our neceſſities, ſupply our wants, make vs euery way cheerfull in thy ſeruice, and ſo guide vs in all things that wee may carry out the profeſſion of thy glorious goſpell in a holy, blameles, and chriſti<g ref="char:EOLhyphen"/>an conuerſation all the daies of our life, that we may make a godly, chriſti<g ref="char:EOLhyphen"/>an, and comfortable end of this pilgry<g ref="char:EOLhyphen"/>mage, with full aſſurance of eternall life, through our Lord and ſauiour Ie<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            </div>
+            <div n="thanksgiving" type="prayer">
+               <head>A thanksgiuing to be added to this praier, either morning or euening.</head>
+               <p>
+                  <pb n="67" facs="tcp:151003:37"/>O Lord, we doe now alſo giue hum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le thanks vnto thy maieſtie, for all thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oue and mercies towards vs, for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oote and fountaine of all thy bleſſings <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uen our Lord Ieſus Chriſt and that loue wherewith thou haſt loued vs in him, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uen before we were; that thy hands haue made vs and faſhioned vs in our mothers womb and that thou haſt brought vs forth into the world reaſo<g ref="char:EOLhyphen"/>nable creatures, preſerued vs mightily and prouided for vs gratiouſly from our mothers breaſts vnto this preſent howre, we thanke thee more ſpecially for the great and glorious worke of our redemption, ſaluation peace and recon<g ref="char:EOLhyphen"/>ciliation made betweene thee and vs through the blood of the Croſſe of thy beloued ſonne; we thanke thee alſo for the ineſtimable treaſure of thy holy word whereby thou haſt made known vnto vs the riches of theſe thy mercies and reuealed vnto vs thy ſonne Ieſus Chriſt, by whome we haue acceſſe vnto this grace wherein wee ſtand and re<g ref="char:EOLhyphen"/>ioyce vnder the hope of thy glorie; we thanke thee alſo for all other bleſſings
+<pb n="68" facs="tcp:151003:38"/>
+which we daily receiue by thy graci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prouidence in preſeruing vs fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manyfold dangers and euills wher<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vnto wee are ſubiect, in feeding <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nouriſhing vs from day to day with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> continuance of our life, health, food apparell, howſes, libertie and the vſe all thy good creatures.</p>
+               <p>Finally that thou haſt kept vs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> night paſt; for the quiet and comfort<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ble reſt; health peace and ſaftie, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we haue enioyed by thy gracious pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>uidence, and protection, for this libe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tie we haue to come before thee a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> call vpon thy name, beſeeching the mercifully to receiue our prayers gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ting vnto vs; and to all thy church an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> children theſe and whatſoeuer grace thou in thy heauenly wiſedome an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> incomprehenſible loue doeſt know v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or any of thine to ſtand in need of, fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our lord and ſauiour Ieſus Chriſt hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſake in whoſe name we pray further<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Our father which art in heauen, &amp;c.</p>
+            </div>
+            <div n="Church" type="prayer">
+               <head>A prayer for the ſtate of the Church and of the land which may be added to the former prayer
+<pb n="69" facs="tcp:151003:38"/>
+before the thanksgiuing.</head>
+               <p>We beſeech thee alſo good Lord to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe thy whole church and euery part <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd member thereof, glorifie thy name, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>duance thy kingdome, confound the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower of Sathan, Antichriſt, ſinne, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arkenes, bleſſe this thy church and countrie where we liue, giue thy goſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell a free paſſage amongſt vs, re<g ref="char:EOLhyphen"/>mooue all the hindrances thereof, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aiſe vp daily by thy almightie power and goodnes all thoſe means &amp; inſtru<g ref="char:EOLhyphen"/>ments that may further it aright, bleſſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>we beſeech thee, proſper and preſerue the excellent eſtate of our ſoueraigne Lord the Kings Maieſtie, our gratious Queene, the Prince their eldeſt ſonne and all their royall poſteritie; multiply thy bleſſings vpon them, preſerue them from all dangers, make them earneſt louers, fauorers and furtherers of thy truth and goſpell and tender nurſing fa<g ref="char:EOLhyphen"/>thers and nurſing Mothers vnto thy Church &amp; people all the daies of their life. Good Lord bleſſe the honorable councellors magiſtrates and nobility of this land and all that be in authoritie
+<pb n="70" facs="tcp:151003:39"/>
+vnder the Kings highnes that they ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> carefully &amp; faithfully in all their cour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſails, conſultations and gouerment la<g ref="char:EOLhyphen"/>bour for and procure the promoting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy glorie, the aduancement of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> goſpell; the maintenance of true religi<g ref="char:EOLunhyphen"/>on, vertue and godlines, the ſuppreſſio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ſinne and wickednes, the peace and proſperitie of the church and commo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>wealth, that we may liue vnder his high<g ref="char:EOLhyphen"/>nes and them a peaceable and quiet life in all godlynes and honeſtie. Lord fur<g ref="char:EOLhyphen"/>niſh thy Church continually with god<g ref="char:EOLhyphen"/>ly, faithfull, learned and worthy paſtors and teachers of thy holy word, bleſſe their miniſterie to thy people and de<g ref="char:EOLhyphen"/>fend it againſt all the malice of the wicked.</p>
+               <p>Lord bleſſe all the chriſtian families in the land and encreaſe the number of them dayly; open the eies of the igno<g ref="char:EOLhyphen"/>rant, mollifie the hearts of the obſtinat, conuert them that run aſtray, comfort the feeble hearted; raiſe vp ſuch as bee falne, if they belong vnto thee; &amp; adde vnto thy church dayly ſuch as ſhalbe ſaued, be mercifull to all thy ſeruants
+<pb n="71" facs="tcp:151003:39"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat be in any manner of affliction co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort them and releeue them, help them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſuccour them according to their ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erall neceſſities, giue them a holy vſe of al their afflictions and a gratious de<g ref="char:EOLhyphen"/>liuerance in due time, finally good Lord ſend thy bleſſings vpon all our land with fruitfull ſeaſons and plentifull en<g ref="char:EOLhyphen"/>creaſe of al thy good creatures which in thy gracious prouidence thou haſt or<g ref="char:EOLhyphen"/>deyned for our vſes and neceſſities that we may chearfully ſing vnto thee from day to day the praiſes of thy mercies through Ieſus Chriſt</p>
+            </div>
+            <div n="evening" type="prayer">
+               <head>An Euening prayer.</head>
+               <p>O almightie and eternall Lord God father of our Lord Ieſus Chriſt wee thy poore vnworthie ſeruants, beeing come together to offer vp vnto thee our eue<g ref="char:EOLhyphen"/>ning ſacrifice of praier &amp; thankſgiuing according to our bounde duty doe firſt of all acknowledge againſt our ſelues that we are al of vs moſt vile &amp; wretch<g ref="char:EOLhyphen"/>ed ſinners, not worthie the leaſt of al thy mercies; being guiltie of the fall of our forefather Adam, of our owne originall corruption and of innumerable &amp; moſt
+<pb n="72" facs="tcp:151003:40"/>
+heynous tranſgreſſions of all thy ho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lawes and commandements both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our ſinfull thoughts, words and deed and ſo much the more guiltie, becauſe we haue not regarded the good meane which thou haſt mercifully ordeyne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for vs, to haue wrought in our heart true knowledge and vnderſtanding o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy will and commandements, repen<g ref="char:EOLhyphen"/>tance of our ſinnes and amendment of our life; we confeſſe therefore that we haue infinitely prouoked thy wrath &amp; iudgement againſt vs, and iuſtly deſer<g ref="char:EOLhyphen"/>ued all curſes, plagues and miſeries to be poured vpon vs in this life and to be caſt for euer hereafter into the lake that burneth with fire and brimſtone; but good Lord wee appeale vnto the vn<g ref="char:EOLhyphen"/>ſearchable riches of thy mercies in Chriſt Ieſus, beſeeching thee to waſh a<g ref="char:EOLhyphen"/>way all our ſins &amp; guiltines in his moſt precious blood, to burie them all in his moſt glorious death, that they may be remooued for euer out of thy ſight and be vnto vs as though they had ne<g ref="char:EOLhyphen"/>ver bene, lett thy bleſſed ſpirit of Adop<g ref="char:EOLhyphen"/>tion good lord ſeale vnto our hearts
+<pb n="73" facs="tcp:151003:40"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he full aſſurance of this thy euerlaſting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oue and mercy<g ref="char:punc">▪</g> and lord work in vs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayly more and more a godly ſorrow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or all our ſinnes with hearty and vnfei<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed repentance, and ſo worke in our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts by thy holy ſpirit that all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower of ſinne may dayly die in vs more and more, and all good graces of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy ſpirit may dayly grow and encreaſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n vs, that our hearts may be ſtrength<g ref="char:EOLhyphen"/>ned with an vnfeined faith and we may be purged from euill conſciences and made fruitfull in all duties of chri<g ref="char:EOLhyphen"/>ſtian loue, ſo as in the whole courſe of our life hereafter we may walke before thee in all ſimplicity and godly purenes and ſerue thee vnfeinedly in all the du<g ref="char:EOLhyphen"/>ties of true holines and righteouſnes all the daies of our life.</p>
+               <p>And now lord we further commend our ſelues and euery member of this familie into thy mercifull protection this night, beeſeeching thee to preſerue and keepe vs from all dangers and pe<g ref="char:EOLhyphen"/>rills to which we are ſubiect in ſoule or bodie, or any thing that belongeth vn<g ref="char:EOLhyphen"/>to vs<g ref="char:punc">▪</g> to giue vs quiet and comfortable
+<pb n="74" facs="tcp:151003:41"/>
+reſt with the continuance of our health peace, and ſaftie to the glorie of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> name that we may be more fitt for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> duties of our calling when thou ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> raiſe vs againe and ſo to guide vs and ſanctifie vs throughout, that whethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we ſleepe or wake, liue or die we ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be thine.</p>
+            </div>
+            <div n="addendum" type="prayer">
+               <head>After this the thanksgiuing to this marke * and then adde this following.</head>
+               <p>Finally we giue thee humble thank<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that it hath pleaſed thee to preſerue <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this day, and for all thoſe bleſſings tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haſt vouchſafed vnto vs, our health peace and ſaftie, the comfortable vſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all thy good creatures, with thy ble<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſing vpon our labours, and laſt of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for this libertie we haue to come befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee, beeſeeching thee to accept of thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our euening ſacrifice; gratiouſly t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heare vs and grant vnto vs &amp;c. as be<g ref="char:EOLunhyphen"/>fore.</p>
+            </div>
+            <div n="before the scriptures" type="prayer">
+               <head>A praier before the reading of ſcriptures.</head>
+               <p>Almightie Lord God our moſt mer<g ref="char:EOLhyphen"/>cifull and heauenly father in Ieſus Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="75" facs="tcp:151003:41"/>
+we beſeech thee vouchſafe by thy holy ſpirit to prepare our hearts<g ref="char:punc">▪</g> that with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll reuerence and diligence we may at<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end to this thy holy word and ſoe to open our vnderſtanding and to ſanctifie our affections as thou mayſt therby diſ<g ref="char:EOLhyphen"/>perſe in vs more and more all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miſts and darkneſſes of Sathan and of ſinne and make vs apt to euerie good worke and wiſe vnto ſaluation through <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus Chriſt our Lord &amp; only Sauiour. Amen.</p>
+            </div>
+            <div n="before catechizing" type="prayer">
+               <head>A prayer before Catechiſing.</head>
+               <p>O lord our god and our moſt merci<g ref="char:EOLhyphen"/>full father in Ieſus Chriſt which haſt commanded vs to lay vp thy words in our hearts and to ſpeake of them when we riſe vp, when we lie downe, when we goe forth, when we come home, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>each them and rehearſe them continu<g ref="char:EOLhyphen"/>ally to our children. And ſeeing our lord Ieſus Chriſt hath commanded vs to ſearch the ſcriptures that we might know thee the onely true god and him whom thou haſt ſent, and ſoe at<g ref="char:EOLhyphen"/>taine to eternall life<g ref="char:punc">▪</g> wee beſeech thee be gratious vnto vs thy poore ſeruants
+<pb n="76" facs="tcp:151003:42"/>
+being come together in the obedience of theis thy holy commandements, to ſeeke thee by ſuch meanes as thou ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mercifully ordeined for vs. Lord we confeſſe our hearts are full of hardne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our vnderſtanding is full of darknes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our eares are dull of hearing, we beſe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thee vouchſafe by the grace of thy hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpirit to open and circumciſe our eares to lighten our dark vnderſtanding an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to mollifie our hard hearts that we ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heare with reuerence, vnderſtand wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iudgment, marke with diligence an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> receiue with meeknes all the inſtucti<g ref="char:EOLunhyphen"/>ons which we ſhall heare at this tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of thy holy word and that they ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be written in the fleſhy tables of o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hearts by the finger of thy owne ſpir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to breed and encreaſe in vs all ſpiritua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> knowledge and heauenly wiſedom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> faith, hope, loue hatred of ſinne, practi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of righteouſnes and all holy duties <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chriſtianitie and of our ſeuerall calling &amp; ſo ſerue thee with all ſimplicitie an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> godly purenes all the daies of our li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> through Ieſus Chriſt our only lord, Sa<g ref="char:EOLunhyphen"/>uiour and redeemer. Amen.</p>
+            </div>
+            <div n="after catechizing" type="prayer">
+               <pb n="77" facs="tcp:151003:42"/>
+               <head>A praier After Catechiſing.</head>
+               <p>O lord our god moſt gracious and mercifull father, we moſt humbly thanke thy heauenly maieſtie that thou haſt vouchſafed vs this great mercy to be partakers of theis heauenly doctrins and inſtructions of thy holy word, which thou haſt ſo mercifully and gra<g ref="char:EOLhyphen"/>tiouſly ordeyned for vs. we beſech thee good lord that thou wilt alſo vouch<g ref="char:EOLhyphen"/>ſafe vs that grace of thy holy ſpirit, that we may faythfully remember and diligently meditate vpon thoſe things that now or heretofore we haue heard out of thy holy word: that we may lay them vp in our hearts and make a good and profitable vſe of them, to the en<g ref="char:EOLhyphen"/>creaſing of our knowledg, our faith, our obedience, our hope, and loue, and all ſpirituall graces and gifts meete for our places and callings, to the glory of thy moſt holy name, the peace and comfort of our co<g ref="char:cmbAbbrStroke">̄</g>ſciences, the ſaluati<g ref="char:EOLhyphen"/>on of our ſoules and bodies, the good &amp; good example of thoſe with whome we liue; through thy dearely beloued ſonne Ieſus Chriſt our Lord and our
+<pb n="78" facs="tcp:151003:43"/>
+moſt bleſſed ſauiour and only redemer Amen.</p>
+            </div>
+            <div n="servants" type="prayer">
+               <head>A morning prayer for ſeruants by themſelues.</head>
+               <p>O almightie Lord God our moſt gracious and louing Father in Ieſus Chriſt we doe vnfeinedly confeſſe be<g ref="char:EOLhyphen"/>fore thy maieſtie that we are all of vs moſt vile wretched ſinners, co<g ref="char:cmbAbbrStroke">̄</g>ceiued &amp; borne in ſinne, altogether corrupted &amp; defiled in our owne nature, guiltie of innumerable &amp; heinous tranſgreſſions of all thy holy lawes and commande<g ref="char:EOLhyphen"/>ments, vnapt to all goodnes, proane to all ſinne and wickednes, vnworthy of any of thy bleſſings, euen the leaſt of all thy mercies; and worthie of all thy fearefull curſes conteined in thy law, in all miſeries of this life, and of eternall death and damnation in the life to come; but moſt mercifull father wee beſeech thee looke vpon vs in Ieſus Chriſt pardon and forgiue vs all our ſinnes for his ſake, worke in vs more and more the ſight and feeling of all our ſinnes, with a true loathing and hatred of them, a godly ſorrow for
+<pb n="79" facs="tcp:151003:43"/>
+them, and an holy repentance; giue vs faith in thy precious promiſes that wee may truſt perfectly vpon that ſaluation that is brought vnto vs by Chriſt Ieſus, with the full aſſurance of our eternall election vnto immortall life. Increaſe in vs care &amp; conſcience to vſe all good meanes that thou haſt ordained for our inſtruction, and write in our hearts all the good leſſons that we heare out of thy holy word that we may daily grow and increaſe in all grace and godlines.</p>
+               <p>Receiue vs this day into thy holy protection, keepe vs from all dangers and euills of bodie and ſoule, worke in vs all dutifull reuerence to our ſuperi<g ref="char:EOLhyphen"/>ors, all diligence, and faithfullnes in our labours. Keepe vs from ſlothfulnes, negligence and idlenes, and all manner of vniuſt dealing in our ſeruice. Bleſſe and proſper vs in all our labours; wher<g ref="char:EOLhyphen"/>in we are to be imployed that we may bee profitable to our gouernours to whome we owe our ſeruice, &amp; carry the teſtimonie of good conſciences in our ſoules, to thy glorie and our euerlaſting peace and comfort, through Ieſus
+<pb n="80" facs="tcp:151003:44"/>
+Chriſt our only ſauiour and redeemer in whoſe name we pray further as he hath taught vs. Our father, &amp;c.</p>
+            </div>
+            <div n="scholars" type="prayer">
+               <head>A prayer for Scholers.</head>
+               <p>O almightie lord God, moſt merci<g ref="char:EOLhyphen"/>full of our Lord Ieſus Chriſt, the foun<g ref="char:EOLhyphen"/>taine of all wiſedome, grace, and good<g ref="char:EOLhyphen"/>nes, we beſeech thee to looke merciful<g ref="char:EOLhyphen"/>ly vpon vs, to forgiue vs al our ſinnes, to worke in vs dayly more and more the hatred of all ſinne, and wickednes, the loue of al goodnes, yea we beſeech thee to teach vs to knowe and remem<g ref="char:EOLhyphen"/>ber thee our creator, our redemer our ſanctifier and preſeruer in theſe daies of our childhood and youth, worke in vs a true loue vnto thy holy word, and delight in thy commande<g ref="char:EOLhyphen"/>ments, giue vs grace to ſeeke for, and to attaine vnto that true wiſedome taught in thy holy word, wherby we may vn<g ref="char:EOLhyphen"/>derſtand the feare of thy holy name &amp; attaine the knowledge of thee, and all godlines, that wee may know alſo, iu<g ref="char:EOLhyphen"/>ſtice and iudgment and equitie &amp; eue<g ref="char:EOLhyphen"/>ry good path that, this heauenly wiſe<g ref="char:EOLhyphen"/>dome may be our watch-man and this
+<pb n="81" facs="tcp:151003:44"/>
+knowledge our garder and keeper to preſerue vs from the crooked waies of wicked men, and all the baites and allurments of ſinne, to the end that we may walke in the waies of good men and in the paths of the righteous. And good Lord worke in euerie one of vs al loue, reuerence and obedience vnto our teachers and gouerners all dili<g ref="char:EOLhyphen"/>gence and good conſcience to beſtowe this precious time profitably. Lord we beſeech thee vouchſafe dayly more &amp; more to quicken out witts, to open our vnderſtanding, to ſtrengthen our me<g ref="char:EOLhyphen"/>mories, to confirme our iudgments. Send downe thy bleſſings vpon all the inſtructions that are deliuered vnto vs, vpon all the labours of our teachers, &amp; all our owne ſtudies &amp; endeuoures that we may dayly grow and encreaſe in all good learning and knowledge, wiſ<g ref="char:EOLhyphen"/>dome, vertue, and godlines, that we may be anſwerable to the good expe<g ref="char:EOLhyphen"/>ctation of our parents and freinds, to their great and effectuall comfort, and worthy and wiſe ſeruants vnto thy ma<g ref="char:EOLhyphen"/>ieſtie, in the places thou haſt hereafter
+<pb n="82" facs="tcp:151003:45"/>
+appointed for vs, in the church or co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mon wealth, grant good Lord theſe graces &amp; whatſoeuer elſe thou know<g ref="char:EOLhyphen"/>eſt vs to ſtand in neede of for our lord Ieſus Chriſt his ſake. Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
